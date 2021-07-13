@@ -1,0 +1,852 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Table caption renders 1`] = `
+.c2 {
+  margin-bottom: 1px;
+}
+
+.c1 {
+  border-spacing: 0;
+  border-collapse: collapse;
+  width: inherit;
+}
+
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+@media all and (min--moz-device-pixel-ratio:0) {
+  .c1 {
+    table-layout: fixed;
+  }
+}
+
+<div
+  className="c0"
+>
+  <table
+    className="c1"
+  >
+    <caption
+      className="c2"
+    >
+      Caption
+    </caption>
+  </table>
+</div>
+`;
+
+exports[`Table renders 1`] = `
+.c1 {
+  border-spacing: 0;
+  border-collapse: collapse;
+  width: inherit;
+}
+
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+@media all and (min--moz-device-pixel-ratio:0) {
+  .c1 {
+    table-layout: fixed;
+  }
+}
+
+<div
+  className="c0"
+>
+  <table
+    className="c1"
+  />
+</div>
+`;
+
+exports[`TableBody renders 1`] = `
+.c1 {
+  border-spacing: 0;
+  border-collapse: collapse;
+  width: inherit;
+}
+
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+@media all and (min--moz-device-pixel-ratio:0) {
+  .c1 {
+    table-layout: fixed;
+  }
+}
+
+<div
+  className="c0"
+>
+  <table
+    className="c1"
+  >
+    <tbody
+      className=""
+    />
+  </table>
+</div>
+`;
+
+exports[`TableCell plain renders 1`] = `
+.c3 {
+  margin: 0;
+  padding: 0;
+  font-weight: inherit;
+  text-align: inherit;
+  height: 100%;
+  text-align: start;
+  border-bottom: solid 1px #cdd3e3;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.c2 {
+  height: 100%;
+}
+
+.c1 {
+  border-spacing: 0;
+  border-collapse: collapse;
+  width: inherit;
+}
+
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+@media all and (min--moz-device-pixel-ratio:0) {
+  .c1 {
+    table-layout: fixed;
+  }
+}
+
+<div
+  className="c0"
+>
+  <table
+    className="c1"
+  >
+    <thead
+      className=""
+    >
+      <tr
+        className="c2"
+      >
+        <td
+          className="c3"
+        />
+      </tr>
+    </thead>
+  </table>
+</div>
+`;
+
+exports[`TableCell renders 1`] = `
+.c3 {
+  margin: 0;
+  padding: 0;
+  font-weight: inherit;
+  text-align: inherit;
+  height: 100%;
+  text-align: start;
+  border-bottom: solid 1px #cdd3e3;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.c4 {
+  margin: 0;
+  padding: 0;
+  font-weight: inherit;
+  text-align: inherit;
+  height: 100%;
+  text-align: start;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.c5 {
+  margin: 0;
+  padding: 0;
+  font-weight: inherit;
+  text-align: inherit;
+  height: 100%;
+  text-align: start;
+  border-top: solid 1px #cdd3e3;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.c2 {
+  height: 100%;
+}
+
+.c1 {
+  border-spacing: 0;
+  border-collapse: collapse;
+  width: inherit;
+}
+
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+@media all and (min--moz-device-pixel-ratio:0) {
+  .c1 {
+    table-layout: fixed;
+  }
+}
+
+<div
+  className="c0"
+>
+  <table
+    className="c1"
+  >
+    <thead
+      className=""
+    >
+      <tr
+        className="c2"
+      >
+        <td
+          className="c3"
+        />
+      </tr>
+    </thead>
+    <tbody
+      className=""
+    >
+      <tr
+        className="c2"
+      >
+        <td
+          className="c4"
+        />
+      </tr>
+    </tbody>
+    <tfoot
+      className=""
+    >
+      <tr
+        className="c2"
+      >
+        <td
+          className="c5"
+        />
+      </tr>
+    </tfoot>
+  </table>
+</div>
+`;
+
+exports[`TableCell scope renders 1`] = `
+.c3 {
+  margin: 0;
+  padding: 0;
+  font-weight: inherit;
+  text-align: inherit;
+  height: 100%;
+  text-align: start;
+  border-bottom: solid 1px #cdd3e3;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.c4 {
+  margin: 0;
+  padding: 0;
+  font-weight: inherit;
+  text-align: inherit;
+  height: 100%;
+  text-align: start;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.c2 {
+  height: 100%;
+}
+
+.c1 {
+  border-spacing: 0;
+  border-collapse: collapse;
+  width: inherit;
+}
+
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+@media all and (min--moz-device-pixel-ratio:0) {
+  .c1 {
+    table-layout: fixed;
+  }
+}
+
+<div
+  className="c0"
+>
+  <table
+    className="c1"
+  >
+    <thead
+      className=""
+    >
+      <tr
+        className="c2"
+      >
+        <th
+          className="c3"
+          scope="col"
+        />
+      </tr>
+    </thead>
+    <tbody
+      className=""
+    >
+      <tr
+        className="c2"
+      >
+        <th
+          className="c4"
+          scope="row"
+        />
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`TableCell size renders 1`] = `
+.c3 {
+  margin: 0;
+  padding: 0;
+  font-weight: inherit;
+  text-align: inherit;
+  height: 100%;
+  width: 64px;
+  max-width: 64px;
+  overflow: hidden;
+  text-align: start;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.c4 {
+  margin: 0;
+  padding: 0;
+  font-weight: inherit;
+  text-align: inherit;
+  height: 100%;
+  width: 128px;
+  max-width: 128px;
+  overflow: hidden;
+  text-align: start;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.c5 {
+  margin: 0;
+  padding: 0;
+  font-weight: inherit;
+  text-align: inherit;
+  height: 100%;
+  width: 256px;
+  max-width: 256px;
+  overflow: hidden;
+  text-align: start;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.c6 {
+  margin: 0;
+  padding: 0;
+  font-weight: inherit;
+  text-align: inherit;
+  height: 100%;
+  width: 512px;
+  max-width: 512px;
+  overflow: hidden;
+  text-align: start;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.c7 {
+  margin: 0;
+  padding: 0;
+  font-weight: inherit;
+  text-align: inherit;
+  height: 100%;
+  width: 50%;
+  max-width: 50%;
+  overflow: hidden;
+  text-align: start;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.c8 {
+  margin: 0;
+  padding: 0;
+  font-weight: inherit;
+  text-align: inherit;
+  height: 100%;
+  width: 33.33%;
+  max-width: 33.33%;
+  overflow: hidden;
+  text-align: start;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.c9 {
+  margin: 0;
+  padding: 0;
+  font-weight: inherit;
+  text-align: inherit;
+  height: 100%;
+  width: 66.66%;
+  max-width: 66.66%;
+  overflow: hidden;
+  text-align: start;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.c10 {
+  margin: 0;
+  padding: 0;
+  font-weight: inherit;
+  text-align: inherit;
+  height: 100%;
+  width: 25%;
+  max-width: 25%;
+  overflow: hidden;
+  text-align: start;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.c11 {
+  margin: 0;
+  padding: 0;
+  font-weight: inherit;
+  text-align: inherit;
+  height: 100%;
+  width: 75%;
+  max-width: 75%;
+  overflow: hidden;
+  text-align: start;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.c2 {
+  height: 100%;
+}
+
+.c1 {
+  border-spacing: 0;
+  border-collapse: collapse;
+  width: inherit;
+}
+
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+@media all and (min--moz-device-pixel-ratio:0) {
+  .c1 {
+    table-layout: fixed;
+  }
+}
+
+<div
+  className="c0"
+>
+  <table
+    className="c1"
+  >
+    <tbody
+      className=""
+    >
+      <tr
+        className="c2"
+      >
+        <td
+          className="c3"
+          size="xsmall"
+        />
+        <td
+          className="c4"
+          size="small"
+        />
+        <td
+          className="c5"
+          size="medium"
+        />
+        <td
+          className="c6"
+          size="large"
+        />
+      </tr>
+    </tbody>
+  </table>
+  <table
+    className="c1"
+  >
+    <tbody
+      className=""
+    >
+      <tr
+        className="c2"
+      >
+        <td
+          className="c7"
+          size="1/2"
+        />
+        <td
+          className="c7"
+          size="2/4"
+        />
+      </tr>
+    </tbody>
+  </table>
+  <table
+    className="c1"
+  >
+    <tbody
+      className=""
+    >
+      <tr
+        className="c2"
+      >
+        <td
+          className="c8"
+          size="1/3"
+        />
+        <td
+          className="c9"
+          size="2/3"
+        />
+      </tr>
+    </tbody>
+  </table>
+  <table
+    className="c1"
+  >
+    <tbody
+      className=""
+    >
+      <tr
+        className="c2"
+      >
+        <td
+          className="c10"
+          size="1/4"
+        />
+        <td
+          className="c11"
+          size="3/4"
+        />
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`TableCell verticalAlign renders 1`] = `
+.c3 {
+  margin: 0;
+  padding: 0;
+  font-weight: inherit;
+  text-align: inherit;
+  height: 100%;
+  vertical-align: top;
+  text-align: start;
+  border-bottom: solid 1px #cdd3e3;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.c4 {
+  margin: 0;
+  padding: 0;
+  font-weight: inherit;
+  text-align: inherit;
+  height: 100%;
+  vertical-align: middle;
+  text-align: start;
+  border-bottom: solid 1px #cdd3e3;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.c5 {
+  margin: 0;
+  padding: 0;
+  font-weight: inherit;
+  text-align: inherit;
+  height: 100%;
+  vertical-align: bottom;
+  text-align: start;
+  border-bottom: solid 1px #cdd3e3;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.c2 {
+  height: 100%;
+}
+
+.c1 {
+  border-spacing: 0;
+  border-collapse: collapse;
+  width: inherit;
+}
+
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+@media all and (min--moz-device-pixel-ratio:0) {
+  .c1 {
+    table-layout: fixed;
+  }
+}
+
+<div
+  className="c0"
+>
+  <table
+    className="c1"
+  >
+    <thead
+      className=""
+    >
+      <tr
+        className="c2"
+      >
+        <td
+          className="c3"
+        />
+        <td
+          className="c4"
+        />
+        <td
+          className="c5"
+        />
+      </tr>
+    </thead>
+  </table>
+</div>
+`;
+
+exports[`TableFooter renders 1`] = `
+.c1 {
+  border-spacing: 0;
+  border-collapse: collapse;
+  width: inherit;
+}
+
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+@media all and (min--moz-device-pixel-ratio:0) {
+  .c1 {
+    table-layout: fixed;
+  }
+}
+
+<div
+  className="c0"
+>
+  <table
+    className="c1"
+  >
+    <tfoot
+      className=""
+    />
+  </table>
+</div>
+`;
+
+exports[`TableHeader renders 1`] = `
+.c1 {
+  border-spacing: 0;
+  border-collapse: collapse;
+  width: inherit;
+}
+
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+@media all and (min--moz-device-pixel-ratio:0) {
+  .c1 {
+    table-layout: fixed;
+  }
+}
+
+<div
+  className="c0"
+>
+  <table
+    className="c1"
+  >
+    <thead
+      className=""
+    />
+  </table>
+</div>
+`;
+
+exports[`TableRow renders 1`] = `
+.c2 {
+  height: 100%;
+}
+
+.c1 {
+  border-spacing: 0;
+  border-collapse: collapse;
+  width: inherit;
+}
+
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+@media all and (min--moz-device-pixel-ratio:0) {
+  .c1 {
+    table-layout: fixed;
+  }
+}
+
+<div
+  className="c0"
+>
+  <table
+    className="c1"
+  >
+    <tbody
+      className=""
+    >
+      <tr
+        className="c2"
+      />
+    </tbody>
+  </table>
+</div>
+`;

@@ -1,4 +1,0 @@
-# Contributing
-
- --Document In Progress--
-

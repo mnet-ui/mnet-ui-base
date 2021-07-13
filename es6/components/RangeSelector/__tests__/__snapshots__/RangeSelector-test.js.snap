@@ -1,0 +1,4517 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RangeSelector basic 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  width: 100%;
+  height: 100%;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  -webkit-align-self: stretch;
+  -ms-flex-item-align: stretch;
+  align-self: stretch;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  overflow: visible;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex-basis: 100%;
+  -ms-flex-preferred-size: 100%;
+  flex-basis: 100%;
+  height: 100%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: #E15151;
+  color: #f8f8f8;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 8px;
+  border-radius: 100%;
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: rgba(225,81,81,0.4);
+  color: #444444;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+}
+
+.c2 {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1 c2"
+    tabIndex="-1"
+  >
+    <div
+      className="c3"
+      style={
+        Object {
+          "flex": "20 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Lower Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c7"
+      style={
+        Object {
+          "cursor": "ew-resize",
+          "flex": "11 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Upper Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c3"
+      style={
+        Object {
+          "flex": "70 0 0",
+        }
+      }
+    />
+  </div>
+</div>
+`;
+
+exports[`RangeSelector color 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  width: 100%;
+  height: 100%;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  -webkit-align-self: stretch;
+  -ms-flex-item-align: stretch;
+  align-self: stretch;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  overflow: visible;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex-basis: 100%;
+  -ms-flex-preferred-size: 100%;
+  flex-basis: 100%;
+  height: 100%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: #38C18B;
+  color: #444444;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 8px;
+  border-radius: 100%;
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: rgba(56,193,139,0.4);
+  color: #444444;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+}
+
+.c2 {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1 c2"
+    tabIndex="-1"
+  >
+    <div
+      className="c3"
+      style={
+        Object {
+          "flex": "20 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Lower Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c7"
+      style={
+        Object {
+          "cursor": "ew-resize",
+          "flex": "11 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Upper Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c3"
+      style={
+        Object {
+          "flex": "70 0 0",
+        }
+      }
+    />
+  </div>
+</div>
+`;
+
+exports[`RangeSelector direction 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  width: 100%;
+  height: 100%;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  -webkit-align-self: stretch;
+  -ms-flex-item-align: stretch;
+  align-self: stretch;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  overflow: visible;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex-basis: 100%;
+  -ms-flex-preferred-size: 100%;
+  flex-basis: 100%;
+  height: 100%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: #E15151;
+  color: #f8f8f8;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 8px;
+  border-radius: 100%;
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: rgba(225,81,81,0.4);
+  color: #444444;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+}
+
+.c8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+}
+
+.c9 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: 8px;
+  height: 100%;
+}
+
+.c10 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  -webkit-align-self: stretch;
+  -ms-flex-item-align: stretch;
+  align-self: stretch;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  overflow: visible;
+}
+
+.c11 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-basis: 100%;
+  -ms-flex-preferred-size: 100%;
+  flex-basis: 100%;
+  width: 100%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c12 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: rgba(225,81,81,0.4);
+  color: #444444;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: 8px;
+  height: 100%;
+}
+
+.c2 {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1 c2"
+    tabIndex="-1"
+  >
+    <div
+      className="c3"
+      style={
+        Object {
+          "flex": "20 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Lower Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c7"
+      style={
+        Object {
+          "cursor": "ew-resize",
+          "flex": "11 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Upper Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c3"
+      style={
+        Object {
+          "flex": "70 0 0",
+        }
+      }
+    />
+  </div>
+  <div
+    className="c8 c2"
+    tabIndex="-1"
+  >
+    <div
+      className="c9"
+      style={
+        Object {
+          "flex": "20 0 0",
+        }
+      }
+    />
+    <div
+      className="c10"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Lower Bounds"
+        className="c11"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "row-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c12"
+      style={
+        Object {
+          "cursor": "ns-resize",
+          "flex": "11 0 0",
+        }
+      }
+    />
+    <div
+      className="c10"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Upper Bounds"
+        className="c11"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "row-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c9"
+      style={
+        Object {
+          "flex": "70 0 0",
+        }
+      }
+    />
+  </div>
+</div>
+`;
+
+exports[`RangeSelector handle keyboard 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  -webkit-align-self: stretch;
+  -ms-flex-item-align: stretch;
+  align-self: stretch;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  overflow: visible;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex-basis: 100%;
+  -ms-flex-preferred-size: 100%;
+  flex-basis: 100%;
+  height: 100%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: #E15151;
+  color: #f8f8f8;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 8px;
+  border-radius: 100%;
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: rgba(225,81,81,0.4);
+  color: #444444;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+}
+
+.c2 {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+<div
+  class="c0"
+>
+  <div
+    class="c1 c2"
+    tabindex="-1"
+  >
+    <div
+      class="c3"
+      style="flex: 20 0 0px;"
+    />
+    <div
+      class="c4"
+      style="flex: 0 0 1px;"
+    >
+      <div
+        aria-label="Lower Bounds"
+        class="c5"
+        style="cursor: col-resize; outline: none; min-width: 8px; min-height: 8px; z-index: 10;"
+        tabindex="0"
+      >
+        <div
+          class="c6 "
+        />
+      </div>
+    </div>
+    <div
+      class="c7"
+      style="flex: 11 0 0px; cursor: ew-resize;"
+    />
+    <div
+      class="c4"
+      style="flex: 0 0 1px;"
+    >
+      <div
+        aria-label="Upper Bounds"
+        class="c5"
+        style="cursor: col-resize; outline: none; min-width: 8px; min-height: 8px; z-index: 10;"
+        tabindex="0"
+      >
+        <div
+          class="c6 "
+        />
+      </div>
+    </div>
+    <div
+      class="c3"
+      style="flex: 70 0 0px;"
+    />
+  </div>
+</div>
+`;
+
+exports[`RangeSelector handle mouse 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  -webkit-align-self: stretch;
+  -ms-flex-item-align: stretch;
+  align-self: stretch;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  overflow: visible;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex-basis: 100%;
+  -ms-flex-preferred-size: 100%;
+  flex-basis: 100%;
+  height: 100%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: #E15151;
+  color: #f8f8f8;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 8px;
+  border-radius: 100%;
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: rgba(225,81,81,0.4);
+  color: #444444;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+}
+
+.c2 {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+<div
+  class="c0"
+>
+  <div
+    class="c1 c2"
+    tabindex="-1"
+  >
+    <div
+      class="c3"
+      style="flex: 20 0 0px;"
+    />
+    <div
+      class="c4"
+      style="flex: 0 0 1px;"
+    >
+      <div
+        aria-label="Lower Bounds"
+        class="c5"
+        style="cursor: col-resize; outline: none; min-width: 8px; min-height: 8px; z-index: 10;"
+        tabindex="0"
+      >
+        <div
+          class="c6 "
+        />
+      </div>
+    </div>
+    <div
+      class="c7"
+      style="flex: 11 0 0px; cursor: ew-resize;"
+    />
+    <div
+      class="c4"
+      style="flex: 0 0 1px;"
+    >
+      <div
+        aria-label="Upper Bounds"
+        class="c5"
+        style="cursor: col-resize; outline: none; min-width: 8px; min-height: 8px; z-index: 10;"
+        tabindex="0"
+      >
+        <div
+          class="c6 "
+        />
+      </div>
+    </div>
+    <div
+      class="c3"
+      style="flex: 70 0 0px;"
+    />
+  </div>
+</div>
+`;
+
+exports[`RangeSelector invert 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  width: 100%;
+  height: 100%;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: rgba(225,227,239,0.4);
+  color: #444444;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  -webkit-align-self: stretch;
+  -ms-flex-item-align: stretch;
+  align-self: stretch;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  overflow: visible;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex-basis: 100%;
+  -ms-flex-preferred-size: 100%;
+  flex-basis: 100%;
+  height: 100%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: #E15151;
+  color: #f8f8f8;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 8px;
+  border-radius: 100%;
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+}
+
+.c8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: rgba(225,81,81,0.4);
+  color: #444444;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+}
+
+.c2 {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1 c2"
+    tabIndex="-1"
+  >
+    <div
+      className="c3"
+      style={
+        Object {
+          "flex": "20 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Lower Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c7"
+      style={
+        Object {
+          "cursor": "ew-resize",
+          "flex": "11 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Upper Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c3"
+      style={
+        Object {
+          "flex": "70 0 0",
+        }
+      }
+    />
+  </div>
+  <div
+    className="c1 c2"
+    tabIndex="-1"
+  >
+    <div
+      className="c7"
+      style={
+        Object {
+          "flex": "20 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Lower Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c8"
+      style={
+        Object {
+          "cursor": "ew-resize",
+          "flex": "11 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Upper Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c7"
+      style={
+        Object {
+          "flex": "70 0 0",
+        }
+      }
+    />
+  </div>
+</div>
+`;
+
+exports[`RangeSelector max 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  width: 100%;
+  height: 100%;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  -webkit-align-self: stretch;
+  -ms-flex-item-align: stretch;
+  align-self: stretch;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  overflow: visible;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex-basis: 100%;
+  -ms-flex-preferred-size: 100%;
+  flex-basis: 100%;
+  height: 100%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: #E15151;
+  color: #f8f8f8;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 8px;
+  border-radius: 100%;
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: rgba(225,81,81,0.4);
+  color: #444444;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+}
+
+.c2 {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1 c2"
+    tabIndex="-1"
+  >
+    <div
+      className="c3"
+      style={
+        Object {
+          "flex": "20 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Lower Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c7"
+      style={
+        Object {
+          "cursor": "ew-resize",
+          "flex": "11 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Upper Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c3"
+      style={
+        Object {
+          "flex": "20 0 0",
+        }
+      }
+    />
+  </div>
+</div>
+`;
+
+exports[`RangeSelector min 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  width: 100%;
+  height: 100%;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  -webkit-align-self: stretch;
+  -ms-flex-item-align: stretch;
+  align-self: stretch;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  overflow: visible;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex-basis: 100%;
+  -ms-flex-preferred-size: 100%;
+  flex-basis: 100%;
+  height: 100%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: #E15151;
+  color: #f8f8f8;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 8px;
+  border-radius: 100%;
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: rgba(225,81,81,0.4);
+  color: #444444;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+}
+
+.c2 {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1 c2"
+    tabIndex="-1"
+  >
+    <div
+      className="c3"
+      style={
+        Object {
+          "flex": "10 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Lower Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c7"
+      style={
+        Object {
+          "cursor": "ew-resize",
+          "flex": "11 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Upper Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c3"
+      style={
+        Object {
+          "flex": "70 0 0",
+        }
+      }
+    />
+  </div>
+</div>
+`;
+
+exports[`RangeSelector opacity 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  width: 100%;
+  height: 100%;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  -webkit-align-self: stretch;
+  -ms-flex-item-align: stretch;
+  align-self: stretch;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  overflow: visible;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex-basis: 100%;
+  -ms-flex-preferred-size: 100%;
+  flex-basis: 100%;
+  height: 100%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: #E15151;
+  color: #f8f8f8;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 8px;
+  border-radius: 100%;
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: rgba(225,81,81,0.1);
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+}
+
+.c8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: rgba(225,81,81,0.4);
+  color: #444444;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+}
+
+.c9 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: rgba(225,81,81,0.8);
+  color: #f8f8f8;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+}
+
+.c2 {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1 c2"
+    tabIndex="-1"
+  >
+    <div
+      className="c3"
+      style={
+        Object {
+          "flex": "20 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Lower Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c7"
+      style={
+        Object {
+          "cursor": "ew-resize",
+          "flex": "11 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Upper Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c3"
+      style={
+        Object {
+          "flex": "70 0 0",
+        }
+      }
+    />
+  </div>
+  <div
+    className="c1 c2"
+    tabIndex="-1"
+  >
+    <div
+      className="c3"
+      style={
+        Object {
+          "flex": "20 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Lower Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c8"
+      style={
+        Object {
+          "cursor": "ew-resize",
+          "flex": "11 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Upper Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c3"
+      style={
+        Object {
+          "flex": "70 0 0",
+        }
+      }
+    />
+  </div>
+  <div
+    className="c1 c2"
+    tabIndex="-1"
+  >
+    <div
+      className="c3"
+      style={
+        Object {
+          "flex": "20 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Lower Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c9"
+      style={
+        Object {
+          "cursor": "ew-resize",
+          "flex": "11 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Upper Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c3"
+      style={
+        Object {
+          "flex": "70 0 0",
+        }
+      }
+    />
+  </div>
+</div>
+`;
+
+exports[`RangeSelector round 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  width: 100%;
+  height: 100%;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+  border-radius: 2px;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  -webkit-align-self: stretch;
+  -ms-flex-item-align: stretch;
+  align-self: stretch;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  overflow: visible;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex-basis: 100%;
+  -ms-flex-preferred-size: 100%;
+  flex-basis: 100%;
+  height: 100%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: #E15151;
+  color: #f8f8f8;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 8px;
+  border-radius: 100%;
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: rgba(225,81,81,0.4);
+  color: #444444;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+  border-radius: 2px;
+}
+
+.c8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+  border-radius: 4px;
+}
+
+.c9 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: rgba(225,81,81,0.4);
+  color: #444444;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+  border-radius: 4px;
+}
+
+.c10 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+  border-radius: 8px;
+}
+
+.c11 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: rgba(225,81,81,0.4);
+  color: #444444;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+  border-radius: 8px;
+}
+
+.c12 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+  border-radius: 16px;
+}
+
+.c13 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: rgba(225,81,81,0.4);
+  color: #444444;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+  border-radius: 16px;
+}
+
+.c14 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+  border-radius: 100%;
+}
+
+.c15 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: rgba(225,81,81,0.4);
+  color: #444444;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+  border-radius: 100%;
+}
+
+.c2 {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+@media only screen and (max-width:512px) {
+  .c3 {
+    border-radius: 2px;
+  }
+}
+
+@media only screen and (max-width:512px) {
+  .c7 {
+    border-radius: 2px;
+  }
+}
+
+@media only screen and (max-width:512px) {
+  .c8 {
+    border-radius: 4px;
+  }
+}
+
+@media only screen and (max-width:512px) {
+  .c9 {
+    border-radius: 4px;
+  }
+}
+
+@media only screen and (max-width:512px) {
+  .c10 {
+    border-radius: 8px;
+  }
+}
+
+@media only screen and (max-width:512px) {
+  .c11 {
+    border-radius: 8px;
+  }
+}
+
+@media only screen and (max-width:512px) {
+  .c12 {
+    border-radius: 16px;
+  }
+}
+
+@media only screen and (max-width:512px) {
+  .c13 {
+    border-radius: 16px;
+  }
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1 c2"
+    tabIndex="-1"
+  >
+    <div
+      className="c3"
+      style={
+        Object {
+          "flex": "20 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Lower Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c7"
+      style={
+        Object {
+          "cursor": "ew-resize",
+          "flex": "11 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Upper Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c3"
+      style={
+        Object {
+          "flex": "70 0 0",
+        }
+      }
+    />
+  </div>
+  <div
+    className="c1 c2"
+    tabIndex="-1"
+  >
+    <div
+      className="c8"
+      style={
+        Object {
+          "flex": "20 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Lower Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c9"
+      style={
+        Object {
+          "cursor": "ew-resize",
+          "flex": "11 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Upper Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c8"
+      style={
+        Object {
+          "flex": "70 0 0",
+        }
+      }
+    />
+  </div>
+  <div
+    className="c1 c2"
+    tabIndex="-1"
+  >
+    <div
+      className="c10"
+      style={
+        Object {
+          "flex": "20 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Lower Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c11"
+      style={
+        Object {
+          "cursor": "ew-resize",
+          "flex": "11 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Upper Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c10"
+      style={
+        Object {
+          "flex": "70 0 0",
+        }
+      }
+    />
+  </div>
+  <div
+    className="c1 c2"
+    tabIndex="-1"
+  >
+    <div
+      className="c12"
+      style={
+        Object {
+          "flex": "20 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Lower Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c13"
+      style={
+        Object {
+          "cursor": "ew-resize",
+          "flex": "11 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Upper Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c12"
+      style={
+        Object {
+          "flex": "70 0 0",
+        }
+      }
+    />
+  </div>
+  <div
+    className="c1 c2"
+    tabIndex="-1"
+  >
+    <div
+      className="c14"
+      style={
+        Object {
+          "flex": "20 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Lower Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c15"
+      style={
+        Object {
+          "cursor": "ew-resize",
+          "flex": "11 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Upper Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c14"
+      style={
+        Object {
+          "flex": "70 0 0",
+        }
+      }
+    />
+  </div>
+</div>
+`;
+
+exports[`RangeSelector size 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  width: 100%;
+  height: 100%;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 1px;
+  width: 100%;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  -webkit-align-self: stretch;
+  -ms-flex-item-align: stretch;
+  align-self: stretch;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  overflow: visible;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex-basis: 100%;
+  -ms-flex-preferred-size: 100%;
+  flex-basis: 100%;
+  height: 100%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: #E15151;
+  color: #f8f8f8;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 8px;
+  border-radius: 100%;
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: rgba(225,81,81,0.4);
+  color: #444444;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 1px;
+  width: 100%;
+}
+
+.c8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 2px;
+  width: 100%;
+}
+
+.c9 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: rgba(225,81,81,0.4);
+  color: #444444;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 2px;
+  width: 100%;
+}
+
+.c10 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 4px;
+  width: 100%;
+}
+
+.c11 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: rgba(225,81,81,0.4);
+  color: #444444;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 4px;
+  width: 100%;
+}
+
+.c12 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+}
+
+.c13 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: rgba(225,81,81,0.4);
+  color: #444444;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+}
+
+.c14 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 16px;
+  width: 100%;
+}
+
+.c15 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: rgba(225,81,81,0.4);
+  color: #444444;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 16px;
+  width: 100%;
+}
+
+.c16 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  -webkit-align-self: stretch;
+  -ms-flex-item-align: stretch;
+  align-self: stretch;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: 100%;
+}
+
+.c17 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  -webkit-align-self: stretch;
+  -ms-flex-item-align: stretch;
+  align-self: stretch;
+  background-color: rgba(225,81,81,0.4);
+  color: #444444;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: 100%;
+}
+
+.c2 {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1 c2"
+    tabIndex="-1"
+  >
+    <div
+      className="c3"
+      style={
+        Object {
+          "flex": "20 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Lower Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c7"
+      style={
+        Object {
+          "cursor": "ew-resize",
+          "flex": "11 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Upper Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c3"
+      style={
+        Object {
+          "flex": "70 0 0",
+        }
+      }
+    />
+  </div>
+  <div
+    className="c1 c2"
+    tabIndex="-1"
+  >
+    <div
+      className="c8"
+      style={
+        Object {
+          "flex": "20 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Lower Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c9"
+      style={
+        Object {
+          "cursor": "ew-resize",
+          "flex": "11 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Upper Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c8"
+      style={
+        Object {
+          "flex": "70 0 0",
+        }
+      }
+    />
+  </div>
+  <div
+    className="c1 c2"
+    tabIndex="-1"
+  >
+    <div
+      className="c10"
+      style={
+        Object {
+          "flex": "20 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Lower Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c11"
+      style={
+        Object {
+          "cursor": "ew-resize",
+          "flex": "11 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Upper Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c10"
+      style={
+        Object {
+          "flex": "70 0 0",
+        }
+      }
+    />
+  </div>
+  <div
+    className="c1 c2"
+    tabIndex="-1"
+  >
+    <div
+      className="c12"
+      style={
+        Object {
+          "flex": "20 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Lower Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c13"
+      style={
+        Object {
+          "cursor": "ew-resize",
+          "flex": "11 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Upper Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c12"
+      style={
+        Object {
+          "flex": "70 0 0",
+        }
+      }
+    />
+  </div>
+  <div
+    className="c1 c2"
+    tabIndex="-1"
+  >
+    <div
+      className="c14"
+      style={
+        Object {
+          "flex": "20 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Lower Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c15"
+      style={
+        Object {
+          "cursor": "ew-resize",
+          "flex": "11 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Upper Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c14"
+      style={
+        Object {
+          "flex": "70 0 0",
+        }
+      }
+    />
+  </div>
+  <div
+    className="c1 c2"
+    tabIndex="-1"
+  >
+    <div
+      className="c14"
+      style={
+        Object {
+          "flex": "20 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Lower Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c15"
+      style={
+        Object {
+          "cursor": "ew-resize",
+          "flex": "11 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Upper Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c14"
+      style={
+        Object {
+          "flex": "70 0 0",
+        }
+      }
+    />
+  </div>
+  <div
+    className="c1 c2"
+    tabIndex="-1"
+  >
+    <div
+      className="c16"
+      style={
+        Object {
+          "flex": "20 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Lower Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c17"
+      style={
+        Object {
+          "cursor": "ew-resize",
+          "flex": "11 0 0",
+        }
+      }
+    />
+    <div
+      className="c4"
+      onKeyDown={[Function]}
+      style={
+        Object {
+          "flex": "0 0 1px",
+        }
+      }
+    >
+      <div
+        aria-label="Upper Bounds"
+        className="c5"
+        onBlur={[Function]}
+        onFocus={[Function]}
+        style={
+          Object {
+            "cursor": "col-resize",
+            "minHeight": 8,
+            "minWidth": 8,
+            "outline": "none",
+            "zIndex": 10,
+          }
+        }
+        tabIndex={0}
+      >
+        <div
+          className="c6 "
+        />
+      </div>
+    </div>
+    <div
+      className="c16"
+      style={
+        Object {
+          "flex": "70 0 0",
+        }
+      }
+    />
+  </div>
+</div>
+`;
+
+exports[`RangeSelector step renders correct values 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  -webkit-align-self: stretch;
+  -ms-flex-item-align: stretch;
+  align-self: stretch;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  overflow: visible;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex-basis: 100%;
+  -ms-flex-preferred-size: 100%;
+  flex-basis: 100%;
+  height: 100%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: #E15151;
+  color: #f8f8f8;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 8px;
+  border-radius: 100%;
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  background-color: rgba(225,81,81,0.4);
+  color: #444444;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 8px;
+  width: 100%;
+}
+
+.c2 {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+<div
+  class="c0"
+>
+  <div
+    class="c1 c2"
+    tabindex="-1"
+  >
+    <div
+      class="c3"
+      style="flex: 0 0 0px;"
+    />
+    <div
+      class="c4"
+      style="flex: 0 0 1px;"
+    >
+      <div
+        aria-label="Lower Bounds"
+        class="c5"
+        style="cursor: col-resize; outline: none; min-width: 8px; min-height: 8px; z-index: 10;"
+        tabindex="0"
+      >
+        <div
+          class="c6 "
+        />
+      </div>
+    </div>
+    <div
+      class="c7"
+      style="flex: 101 0 0px; cursor: ew-resize;"
+    />
+    <div
+      class="c4"
+      style="flex: 0 0 1px;"
+    >
+      <div
+        aria-label="Upper Bounds"
+        class="c5"
+        style="cursor: col-resize; outline: none; min-width: 8px; min-height: 8px; z-index: 10;"
+        tabindex="0"
+      >
+        <div
+          class="c6 "
+        />
+      </div>
+    </div>
+    <div
+      class="c3"
+      style="flex: 0 0 0px;"
+    />
+  </div>
+</div>
+`;

@@ -1,0 +1,3333 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Form controlled 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  margin-bottom: 4px;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  border: solid 1px #cdd3e3;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: auto;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c9 {
+  display: inline-block;
+  box-sizing: border-box;
+  cursor: pointer;
+  font: inherit;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  margin: 0;
+  background: transparent;
+  overflow: visible;
+  text-transform: none;
+  border: 2px solid #E15151;
+  border-radius: 3.2px;
+  color: #444444;
+  padding: 2px 14px;
+  font-size: 12px;
+  line-height: 16px;
+  background-color: #E15151;
+  color: #f8f8f8;
+  border-radius: 3.2px;
+  -webkit-transition-property: color,background-color,border-color,box-shadow;
+  transition-property: color,background-color,border-color,box-shadow;
+  -webkit-transition-duration: 0.1s;
+  transition-duration: 0.1s;
+  -webkit-transition-timing-function: ease-in-out;
+  transition-timing-function: ease-in-out;
+}
+
+.c9:hover {
+  box-shadow: 0px 0px 0px 2px #E15151;
+}
+
+.c8 {
+  box-sizing: border-box;
+  font-size: inherit;
+  font-family: inherit;
+  border: none;
+  -webkit-appearance: none;
+  background: transparent;
+  color: inherit;
+  box-shadow: inset 1px 1px 1px 0 #cdd3e3;
+  padding: 7px;
+  font-weight: 600;
+  margin: 0;
+  border: 1px solid #cdd3e3;
+  border-radius: 4px;
+  width: 100%;
+  outline: none;
+  border: none;
+  box-shadow: none;
+}
+
+.c8::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+.c8::-webkit-input-placeholder {
+  color: #e0e4ee;
+}
+
+.c8::-moz-placeholder {
+  color: #e0e4ee;
+}
+
+.c8:-ms-input-placeholder {
+  color: #e0e4ee;
+}
+
+.c8::-moz-focus-inner {
+  border: none;
+  outline: none;
+}
+
+.c7 {
+  position: relative;
+  width: 100%;
+}
+
+.c2 button {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  border: none;
+}
+
+@media only screen and (max-width:512px) {
+  .c1 {
+    margin-bottom: 4px;
+  }
+}
+
+@media only screen and (max-width:512px) {
+  .c4 {
+    border: solid 1px #cdd3e3;
+  }
+}
+
+<div
+  class="c0"
+>
+  <form>
+    <div
+      class="c1 c2"
+    >
+      <div
+        class="c3"
+        style="flex-direction: column;"
+      >
+        <div
+          class="c3"
+        >
+          <div
+            class="c4 "
+          >
+            <div
+              class="c5"
+            >
+              <div
+                class="c6"
+              >
+                <div
+                  class="c7"
+                >
+                  <input
+                    autocomplete="off"
+                    class="c8"
+                    name="test"
+                    placeholder="test input"
+                    value=""
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button
+      class="c9"
+      type="submit"
+    >
+      Submit
+    </button>
+  </form>
+</div>
+`;
+
+exports[`Form controlled 2`] = `
+<div
+  class="StyledMnetUIBase-sc-17lh5y2-0 HlCER"
+>
+  <form>
+    <div
+      class="StyledBox-sc-1etxkdl-0 fOhVdt FormField__FormFieldBox-sc-13hlgkg-0 izrQiZ"
+    >
+      <div
+        class="StyledBox-sc-1etxkdl-0 iRTtrq"
+        style="flex-direction: column;"
+      >
+        <div
+          class="StyledBox-sc-1etxkdl-0 iRTtrq"
+        >
+          <div
+            class="StyledBox-sc-1etxkdl-0 heeXWd FormField__FormFieldContentBox-sc-13hlgkg-1 bIYGru"
+          >
+            <div
+              class="StyledBox-sc-1etxkdl-0 lkngla"
+            >
+              <div
+                class="StyledBox-sc-1etxkdl-0 dtxnYq"
+              >
+                <div
+                  class="StyledTextInput__StyledTextInputContainer-ilbntv-1 caQufR"
+                >
+                  <input
+                    autocomplete="off"
+                    class="StyledTextInput-ilbntv-0 gGtFPx"
+                    name="test"
+                    placeholder="test input"
+                    value="v"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button
+      class="StyledButton-sc-1hmw3c5-0 dQfxlu"
+      type="submit"
+    >
+      Submit
+    </button>
+  </form>
+</div>
+`;
+
+exports[`Form controlled 3`] = `
+<div
+  class="StyledMnetUIBase-sc-17lh5y2-0 HlCER"
+>
+  <form>
+    <div
+      class="StyledBox-sc-1etxkdl-0 fOhVdt FormField__FormFieldBox-sc-13hlgkg-0 izrQiZ"
+    >
+      <div
+        class="StyledBox-sc-1etxkdl-0 iRTtrq"
+        style="flex-direction: column;"
+      >
+        <div
+          class="StyledBox-sc-1etxkdl-0 iRTtrq"
+        >
+          <div
+            class="StyledBox-sc-1etxkdl-0 heeXWd FormField__FormFieldContentBox-sc-13hlgkg-1 bIYGru"
+          >
+            <div
+              class="StyledBox-sc-1etxkdl-0 lkngla"
+            >
+              <div
+                class="StyledBox-sc-1etxkdl-0 dtxnYq"
+              >
+                <div
+                  class="StyledTextInput__StyledTextInputContainer-ilbntv-1 caQufR"
+                >
+                  <input
+                    autocomplete="off"
+                    class="StyledTextInput-ilbntv-0 gGtFPx"
+                    name="test"
+                    placeholder="test input"
+                    value="v"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button
+      class="StyledButton-sc-1hmw3c5-0 dQfxlu"
+      type="submit"
+    >
+      Submit
+    </button>
+  </form>
+</div>
+`;
+
+exports[`Form controlled FormField deprecated 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  margin-bottom: 4px;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  margin-left: 4px;
+  margin-right: 4px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  border: solid 1px #cdd3e3;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: auto;
+}
+
+.c8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c5 {
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.c11 {
+  display: inline-block;
+  box-sizing: border-box;
+  cursor: pointer;
+  font: inherit;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  margin: 0;
+  background: transparent;
+  overflow: visible;
+  text-transform: none;
+  border: 2px solid #E15151;
+  border-radius: 3.2px;
+  color: #444444;
+  padding: 2px 14px;
+  font-size: 12px;
+  line-height: 16px;
+  background-color: #E15151;
+  color: #f8f8f8;
+  border-radius: 3.2px;
+  -webkit-transition-property: color,background-color,border-color,box-shadow;
+  transition-property: color,background-color,border-color,box-shadow;
+  -webkit-transition-duration: 0.1s;
+  transition-duration: 0.1s;
+  -webkit-transition-timing-function: ease-in-out;
+  transition-timing-function: ease-in-out;
+}
+
+.c11:hover {
+  box-shadow: 0px 0px 0px 2px #E15151;
+}
+
+.c10 {
+  box-sizing: border-box;
+  font-size: inherit;
+  font-family: inherit;
+  border: none;
+  -webkit-appearance: none;
+  background: transparent;
+  color: inherit;
+  box-shadow: inset 1px 1px 1px 0 #cdd3e3;
+  padding: 7px;
+  font-weight: 600;
+  margin: 0;
+  border: 1px solid #cdd3e3;
+  border-radius: 4px;
+  width: 100%;
+  outline: none;
+  border: none;
+  box-shadow: none;
+}
+
+.c10::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+.c10::-webkit-input-placeholder {
+  color: #e0e4ee;
+}
+
+.c10::-moz-placeholder {
+  color: #e0e4ee;
+}
+
+.c10:-ms-input-placeholder {
+  color: #e0e4ee;
+}
+
+.c10::-moz-focus-inner {
+  border: none;
+  outline: none;
+}
+
+.c9 {
+  position: relative;
+  width: 100%;
+}
+
+.c2 button {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  border: none;
+}
+
+@media only screen and (max-width:512px) {
+  .c1 {
+    margin-bottom: 4px;
+  }
+}
+
+@media only screen and (max-width:512px) {
+  .c4 {
+    margin-left: 4px;
+    margin-right: 4px;
+  }
+}
+
+@media only screen and (max-width:512px) {
+  .c4 {
+    margin-top: 2px;
+    margin-bottom: 2px;
+  }
+}
+
+@media only screen and (max-width:512px) {
+  .c6 {
+    border: solid 1px #cdd3e3;
+  }
+}
+
+<div
+  class="c0"
+>
+  <form>
+    <div
+      class="c1 c2"
+    >
+      <div
+        class="c3"
+        style="flex-direction: column;"
+      >
+        <div
+          class="c4"
+        >
+          <label
+            class="c5"
+            for="test"
+          >
+            test
+             
+          </label>
+        </div>
+        <div
+          class="c3"
+        >
+          <div
+            class="c6 "
+          >
+            <div
+              class="c7"
+            >
+              <div
+                class="c8"
+              >
+                <div
+                  class="c9"
+                >
+                  <input
+                    autocomplete="off"
+                    class="c10"
+                    id="test"
+                    name="test"
+                    value=""
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button
+      class="c11"
+      type="submit"
+    >
+      Submit
+    </button>
+  </form>
+</div>
+`;
+
+exports[`Form controlled FormField deprecated 2`] = `
+<div
+  class="StyledMnetUIBase-sc-17lh5y2-0 HlCER"
+>
+  <form>
+    <div
+      class="StyledBox-sc-1etxkdl-0 fOhVdt FormField__FormFieldBox-sc-13hlgkg-0 izrQiZ"
+    >
+      <div
+        class="StyledBox-sc-1etxkdl-0 iRTtrq"
+        style="flex-direction: column;"
+      >
+        <div
+          class="StyledBox-sc-1etxkdl-0 bbUvWu"
+        >
+          <label
+            class="StyledText-sc-3e83s1-0 LsCqY"
+            for="test"
+          >
+            test
+             
+          </label>
+        </div>
+        <div
+          class="StyledBox-sc-1etxkdl-0 iRTtrq"
+        >
+          <div
+            class="StyledBox-sc-1etxkdl-0 heeXWd FormField__FormFieldContentBox-sc-13hlgkg-1 bIYGru"
+          >
+            <div
+              class="StyledBox-sc-1etxkdl-0 lkngla"
+            >
+              <div
+                class="StyledBox-sc-1etxkdl-0 dtxnYq"
+              >
+                <div
+                  class="StyledTextInput__StyledTextInputContainer-ilbntv-1 caQufR"
+                >
+                  <input
+                    autocomplete="off"
+                    class="StyledTextInput-ilbntv-0 gGtFPx"
+                    id="test"
+                    name="test"
+                    value="v"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button
+      class="StyledButton-sc-1hmw3c5-0 dQfxlu"
+      type="submit"
+    >
+      Submit
+    </button>
+  </form>
+</div>
+`;
+
+exports[`Form controlled FormField deprecated 3`] = `
+<div
+  class="StyledMnetUIBase-sc-17lh5y2-0 HlCER"
+>
+  <form>
+    <div
+      class="StyledBox-sc-1etxkdl-0 fOhVdt FormField__FormFieldBox-sc-13hlgkg-0 izrQiZ"
+    >
+      <div
+        class="StyledBox-sc-1etxkdl-0 iRTtrq"
+        style="flex-direction: column;"
+      >
+        <div
+          class="StyledBox-sc-1etxkdl-0 bbUvWu"
+        >
+          <label
+            class="StyledText-sc-3e83s1-0 LsCqY"
+            for="test"
+          >
+            test
+             
+          </label>
+        </div>
+        <div
+          class="StyledBox-sc-1etxkdl-0 iRTtrq"
+        >
+          <div
+            class="StyledBox-sc-1etxkdl-0 heeXWd FormField__FormFieldContentBox-sc-13hlgkg-1 bIYGru"
+          >
+            <div
+              class="StyledBox-sc-1etxkdl-0 lkngla"
+            >
+              <div
+                class="StyledBox-sc-1etxkdl-0 dtxnYq"
+              >
+                <div
+                  class="StyledTextInput__StyledTextInputContainer-ilbntv-1 caQufR"
+                >
+                  <input
+                    autocomplete="off"
+                    class="StyledTextInput-ilbntv-0 gGtFPx"
+                    id="test"
+                    name="test"
+                    value="v"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button
+      class="StyledButton-sc-1hmw3c5-0 dQfxlu"
+      type="submit"
+    >
+      Submit
+    </button>
+  </form>
+</div>
+`;
+
+exports[`Form controlled input 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  margin-bottom: 4px;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  border: solid 1px #cdd3e3;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: auto;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c9 {
+  display: inline-block;
+  box-sizing: border-box;
+  cursor: pointer;
+  font: inherit;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  margin: 0;
+  background: transparent;
+  overflow: visible;
+  text-transform: none;
+  border: 2px solid #E15151;
+  border-radius: 3.2px;
+  color: #444444;
+  padding: 2px 14px;
+  font-size: 12px;
+  line-height: 16px;
+  background-color: #E15151;
+  color: #f8f8f8;
+  border-radius: 3.2px;
+  -webkit-transition-property: color,background-color,border-color,box-shadow;
+  transition-property: color,background-color,border-color,box-shadow;
+  -webkit-transition-duration: 0.1s;
+  transition-duration: 0.1s;
+  -webkit-transition-timing-function: ease-in-out;
+  transition-timing-function: ease-in-out;
+}
+
+.c9:hover {
+  box-shadow: 0px 0px 0px 2px #E15151;
+}
+
+.c8 {
+  box-sizing: border-box;
+  font-size: inherit;
+  font-family: inherit;
+  border: none;
+  -webkit-appearance: none;
+  background: transparent;
+  color: inherit;
+  box-shadow: inset 1px 1px 1px 0 #cdd3e3;
+  padding: 7px;
+  font-weight: 600;
+  margin: 0;
+  border: 1px solid #cdd3e3;
+  border-radius: 4px;
+  width: 100%;
+  outline: none;
+  border: none;
+  box-shadow: none;
+}
+
+.c8::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+.c8::-webkit-input-placeholder {
+  color: #e0e4ee;
+}
+
+.c8::-moz-placeholder {
+  color: #e0e4ee;
+}
+
+.c8:-ms-input-placeholder {
+  color: #e0e4ee;
+}
+
+.c8::-moz-focus-inner {
+  border: none;
+  outline: none;
+}
+
+.c7 {
+  position: relative;
+  width: 100%;
+}
+
+.c2 button {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  border: none;
+}
+
+@media only screen and (max-width:512px) {
+  .c1 {
+    margin-bottom: 4px;
+  }
+}
+
+@media only screen and (max-width:512px) {
+  .c4 {
+    border: solid 1px #cdd3e3;
+  }
+}
+
+<div
+  class="c0"
+>
+  <form>
+    <div
+      class="c1 c2"
+    >
+      <div
+        class="c3"
+        style="flex-direction: column;"
+      >
+        <div
+          class="c3"
+        >
+          <div
+            class="c4 "
+          >
+            <div
+              class="c5"
+            >
+              <div
+                class="c6"
+              >
+                <div
+                  class="c7"
+                >
+                  <input
+                    autocomplete="off"
+                    class="c8"
+                    name="test"
+                    placeholder="test input"
+                    value=""
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button
+      class="c9"
+      type="submit"
+    >
+      Submit
+    </button>
+  </form>
+</div>
+`;
+
+exports[`Form controlled input 2`] = `
+<div
+  class="StyledMnetUIBase-sc-17lh5y2-0 HlCER"
+>
+  <form>
+    <div
+      class="StyledBox-sc-1etxkdl-0 fOhVdt FormField__FormFieldBox-sc-13hlgkg-0 izrQiZ"
+    >
+      <div
+        class="StyledBox-sc-1etxkdl-0 iRTtrq"
+        style="flex-direction: column;"
+      >
+        <div
+          class="StyledBox-sc-1etxkdl-0 iRTtrq"
+        >
+          <div
+            class="StyledBox-sc-1etxkdl-0 heeXWd FormField__FormFieldContentBox-sc-13hlgkg-1 bIYGru"
+          >
+            <div
+              class="StyledBox-sc-1etxkdl-0 lkngla"
+            >
+              <div
+                class="StyledBox-sc-1etxkdl-0 dtxnYq"
+              >
+                <div
+                  class="StyledTextInput__StyledTextInputContainer-ilbntv-1 caQufR"
+                >
+                  <input
+                    autocomplete="off"
+                    class="StyledTextInput-ilbntv-0 gGtFPx"
+                    name="test"
+                    placeholder="test input"
+                    value="v"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button
+      class="StyledButton-sc-1hmw3c5-0 dQfxlu"
+      type="submit"
+    >
+      Submit
+    </button>
+  </form>
+</div>
+`;
+
+exports[`Form controlled input 3`] = `
+<div
+  class="StyledMnetUIBase-sc-17lh5y2-0 HlCER"
+>
+  <form>
+    <div
+      class="StyledBox-sc-1etxkdl-0 fOhVdt FormField__FormFieldBox-sc-13hlgkg-0 izrQiZ"
+    >
+      <div
+        class="StyledBox-sc-1etxkdl-0 iRTtrq"
+        style="flex-direction: column;"
+      >
+        <div
+          class="StyledBox-sc-1etxkdl-0 iRTtrq"
+        >
+          <div
+            class="StyledBox-sc-1etxkdl-0 heeXWd FormField__FormFieldContentBox-sc-13hlgkg-1 bIYGru"
+          >
+            <div
+              class="StyledBox-sc-1etxkdl-0 lkngla"
+            >
+              <div
+                class="StyledBox-sc-1etxkdl-0 dtxnYq"
+              >
+                <div
+                  class="StyledTextInput__StyledTextInputContainer-ilbntv-1 caQufR"
+                >
+                  <input
+                    autocomplete="off"
+                    class="StyledTextInput-ilbntv-0 gGtFPx"
+                    name="test"
+                    placeholder="test input"
+                    value="v"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button
+      class="StyledButton-sc-1hmw3c5-0 dQfxlu"
+      type="submit"
+    >
+      Submit
+    </button>
+  </form>
+</div>
+`;
+
+exports[`Form controlled input lazy 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  margin-bottom: 4px;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  border: solid 1px #cdd3e3;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: auto;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c9 {
+  display: inline-block;
+  box-sizing: border-box;
+  cursor: pointer;
+  font: inherit;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  margin: 0;
+  background: transparent;
+  overflow: visible;
+  text-transform: none;
+  border: 2px solid #E15151;
+  border-radius: 3.2px;
+  color: #444444;
+  padding: 2px 14px;
+  font-size: 12px;
+  line-height: 16px;
+  background-color: #E15151;
+  color: #f8f8f8;
+  border-radius: 3.2px;
+  -webkit-transition-property: color,background-color,border-color,box-shadow;
+  transition-property: color,background-color,border-color,box-shadow;
+  -webkit-transition-duration: 0.1s;
+  transition-duration: 0.1s;
+  -webkit-transition-timing-function: ease-in-out;
+  transition-timing-function: ease-in-out;
+}
+
+.c9:hover {
+  box-shadow: 0px 0px 0px 2px #E15151;
+}
+
+.c8 {
+  box-sizing: border-box;
+  font-size: inherit;
+  font-family: inherit;
+  border: none;
+  -webkit-appearance: none;
+  background: transparent;
+  color: inherit;
+  box-shadow: inset 1px 1px 1px 0 #cdd3e3;
+  padding: 7px;
+  font-weight: 600;
+  margin: 0;
+  border: 1px solid #cdd3e3;
+  border-radius: 4px;
+  width: 100%;
+  outline: none;
+  border: none;
+  box-shadow: none;
+}
+
+.c8::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+.c8::-webkit-input-placeholder {
+  color: #e0e4ee;
+}
+
+.c8::-moz-placeholder {
+  color: #e0e4ee;
+}
+
+.c8:-ms-input-placeholder {
+  color: #e0e4ee;
+}
+
+.c8::-moz-focus-inner {
+  border: none;
+  outline: none;
+}
+
+.c7 {
+  position: relative;
+  width: 100%;
+}
+
+.c2 button {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  border: none;
+}
+
+@media only screen and (max-width:512px) {
+  .c1 {
+    margin-bottom: 4px;
+  }
+}
+
+@media only screen and (max-width:512px) {
+  .c4 {
+    border: solid 1px #cdd3e3;
+  }
+}
+
+<div
+  class="c0"
+>
+  <form>
+    <div
+      class="c1 c2"
+    >
+      <div
+        class="c3"
+        style="flex-direction: column;"
+      >
+        <div
+          class="c3"
+        >
+          <div
+            class="c4 "
+          >
+            <div
+              class="c5"
+            >
+              <div
+                class="c6"
+              >
+                <div
+                  class="c7"
+                >
+                  <input
+                    autocomplete="off"
+                    class="c8"
+                    name="test"
+                    placeholder="test input"
+                    value="test"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button
+      class="c9"
+      type="submit"
+    >
+      Submit
+    </button>
+  </form>
+</div>
+`;
+
+exports[`Form controlled input lazy 2`] = `
+<div
+  class="StyledMnetUIBase-sc-17lh5y2-0 HlCER"
+>
+  <form>
+    <div
+      class="StyledBox-sc-1etxkdl-0 fOhVdt FormField__FormFieldBox-sc-13hlgkg-0 izrQiZ"
+    >
+      <div
+        class="StyledBox-sc-1etxkdl-0 iRTtrq"
+        style="flex-direction: column;"
+      >
+        <div
+          class="StyledBox-sc-1etxkdl-0 iRTtrq"
+        >
+          <div
+            class="StyledBox-sc-1etxkdl-0 heeXWd FormField__FormFieldContentBox-sc-13hlgkg-1 bIYGru"
+          >
+            <div
+              class="StyledBox-sc-1etxkdl-0 lkngla"
+            >
+              <div
+                class="StyledBox-sc-1etxkdl-0 dtxnYq"
+              >
+                <div
+                  class="StyledTextInput__StyledTextInputContainer-ilbntv-1 caQufR"
+                >
+                  <input
+                    autocomplete="off"
+                    class="StyledTextInput-ilbntv-0 gGtFPx"
+                    name="test"
+                    placeholder="test input"
+                    value="v"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button
+      class="StyledButton-sc-1hmw3c5-0 dQfxlu"
+      type="submit"
+    >
+      Submit
+    </button>
+  </form>
+</div>
+`;
+
+exports[`Form controlled input lazy 3`] = `
+<div
+  class="StyledMnetUIBase-sc-17lh5y2-0 HlCER"
+>
+  <form>
+    <div
+      class="StyledBox-sc-1etxkdl-0 fOhVdt FormField__FormFieldBox-sc-13hlgkg-0 izrQiZ"
+    >
+      <div
+        class="StyledBox-sc-1etxkdl-0 iRTtrq"
+        style="flex-direction: column;"
+      >
+        <div
+          class="StyledBox-sc-1etxkdl-0 iRTtrq"
+        >
+          <div
+            class="StyledBox-sc-1etxkdl-0 heeXWd FormField__FormFieldContentBox-sc-13hlgkg-1 bIYGru"
+          >
+            <div
+              class="StyledBox-sc-1etxkdl-0 lkngla"
+            >
+              <div
+                class="StyledBox-sc-1etxkdl-0 dtxnYq"
+              >
+                <div
+                  class="StyledTextInput__StyledTextInputContainer-ilbntv-1 caQufR"
+                >
+                  <input
+                    autocomplete="off"
+                    class="StyledTextInput-ilbntv-0 gGtFPx"
+                    name="test"
+                    placeholder="test input"
+                    value="v"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button
+      class="StyledButton-sc-1hmw3c5-0 dQfxlu"
+      type="submit"
+    >
+      Submit
+    </button>
+  </form>
+</div>
+`;
+
+exports[`Form controlled lazy 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  margin-bottom: 4px;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  border: solid 1px #cdd3e3;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: auto;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c9 {
+  display: inline-block;
+  box-sizing: border-box;
+  cursor: pointer;
+  font: inherit;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  margin: 0;
+  background: transparent;
+  overflow: visible;
+  text-transform: none;
+  border: 2px solid #E15151;
+  border-radius: 3.2px;
+  color: #444444;
+  padding: 2px 14px;
+  font-size: 12px;
+  line-height: 16px;
+  background-color: #E15151;
+  color: #f8f8f8;
+  border-radius: 3.2px;
+  -webkit-transition-property: color,background-color,border-color,box-shadow;
+  transition-property: color,background-color,border-color,box-shadow;
+  -webkit-transition-duration: 0.1s;
+  transition-duration: 0.1s;
+  -webkit-transition-timing-function: ease-in-out;
+  transition-timing-function: ease-in-out;
+}
+
+.c9:hover {
+  box-shadow: 0px 0px 0px 2px #E15151;
+}
+
+.c8 {
+  box-sizing: border-box;
+  font-size: inherit;
+  font-family: inherit;
+  border: none;
+  -webkit-appearance: none;
+  background: transparent;
+  color: inherit;
+  box-shadow: inset 1px 1px 1px 0 #cdd3e3;
+  padding: 7px;
+  font-weight: 600;
+  margin: 0;
+  border: 1px solid #cdd3e3;
+  border-radius: 4px;
+  width: 100%;
+  outline: none;
+  border: none;
+  box-shadow: none;
+}
+
+.c8::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+.c8::-webkit-input-placeholder {
+  color: #e0e4ee;
+}
+
+.c8::-moz-placeholder {
+  color: #e0e4ee;
+}
+
+.c8:-ms-input-placeholder {
+  color: #e0e4ee;
+}
+
+.c8::-moz-focus-inner {
+  border: none;
+  outline: none;
+}
+
+.c7 {
+  position: relative;
+  width: 100%;
+}
+
+.c2 button {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  border: none;
+}
+
+@media only screen and (max-width:512px) {
+  .c1 {
+    margin-bottom: 4px;
+  }
+}
+
+@media only screen and (max-width:512px) {
+  .c4 {
+    border: solid 1px #cdd3e3;
+  }
+}
+
+<div
+  class="c0"
+>
+  <form>
+    <div
+      class="c1 c2"
+    >
+      <div
+        class="c3"
+        style="flex-direction: column;"
+      >
+        <div
+          class="c3"
+        >
+          <div
+            class="c4 "
+          >
+            <div
+              class="c5"
+            >
+              <div
+                class="c6"
+              >
+                <div
+                  class="c7"
+                >
+                  <input
+                    autocomplete="off"
+                    class="c8"
+                    name="test"
+                    placeholder="test input"
+                    value="test"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button
+      class="c9"
+      type="submit"
+    >
+      Submit
+    </button>
+  </form>
+</div>
+`;
+
+exports[`Form controlled lazy 2`] = `
+<div
+  class="StyledMnetUIBase-sc-17lh5y2-0 HlCER"
+>
+  <form>
+    <div
+      class="StyledBox-sc-1etxkdl-0 fOhVdt FormField__FormFieldBox-sc-13hlgkg-0 izrQiZ"
+    >
+      <div
+        class="StyledBox-sc-1etxkdl-0 iRTtrq"
+        style="flex-direction: column;"
+      >
+        <div
+          class="StyledBox-sc-1etxkdl-0 iRTtrq"
+        >
+          <div
+            class="StyledBox-sc-1etxkdl-0 heeXWd FormField__FormFieldContentBox-sc-13hlgkg-1 bIYGru"
+          >
+            <div
+              class="StyledBox-sc-1etxkdl-0 lkngla"
+            >
+              <div
+                class="StyledBox-sc-1etxkdl-0 dtxnYq"
+              >
+                <div
+                  class="StyledTextInput__StyledTextInputContainer-ilbntv-1 caQufR"
+                >
+                  <input
+                    autocomplete="off"
+                    class="StyledTextInput-ilbntv-0 gGtFPx"
+                    name="test"
+                    placeholder="test input"
+                    value="v"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button
+      class="StyledButton-sc-1hmw3c5-0 dQfxlu"
+      type="submit"
+    >
+      Submit
+    </button>
+  </form>
+</div>
+`;
+
+exports[`Form controlled lazy 3`] = `
+<div
+  class="StyledMnetUIBase-sc-17lh5y2-0 HlCER"
+>
+  <form>
+    <div
+      class="StyledBox-sc-1etxkdl-0 fOhVdt FormField__FormFieldBox-sc-13hlgkg-0 izrQiZ"
+    >
+      <div
+        class="StyledBox-sc-1etxkdl-0 iRTtrq"
+        style="flex-direction: column;"
+      >
+        <div
+          class="StyledBox-sc-1etxkdl-0 iRTtrq"
+        >
+          <div
+            class="StyledBox-sc-1etxkdl-0 heeXWd FormField__FormFieldContentBox-sc-13hlgkg-1 bIYGru"
+          >
+            <div
+              class="StyledBox-sc-1etxkdl-0 lkngla"
+            >
+              <div
+                class="StyledBox-sc-1etxkdl-0 dtxnYq"
+              >
+                <div
+                  class="StyledTextInput__StyledTextInputContainer-ilbntv-1 caQufR"
+                >
+                  <input
+                    autocomplete="off"
+                    class="StyledTextInput-ilbntv-0 gGtFPx"
+                    name="test"
+                    placeholder="test input"
+                    value="v"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button
+      class="StyledButton-sc-1hmw3c5-0 dQfxlu"
+      type="submit"
+    >
+      Submit
+    </button>
+  </form>
+</div>
+`;
+
+exports[`Form empty 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+<div
+  className="c0"
+>
+  <form
+    onReset={[Function]}
+    onSubmit={[Function]}
+  />
+</div>
+`;
+
+exports[`Form errors 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  margin-bottom: 4px;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  border: solid 1px #e35e59;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: auto;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c9 {
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  font-size: 12px;
+  line-height: 16px;
+  color: #e35e59;
+}
+
+.c8 {
+  box-sizing: border-box;
+  font-size: inherit;
+  font-family: inherit;
+  border: none;
+  -webkit-appearance: none;
+  background: transparent;
+  color: inherit;
+  box-shadow: inset 1px 1px 1px 0 #cdd3e3;
+  padding: 7px;
+  font-weight: 600;
+  margin: 0;
+  border: 1px solid #cdd3e3;
+  border-radius: 4px;
+  width: 100%;
+  outline: none;
+  border: none;
+  box-shadow: none;
+}
+
+.c8::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+.c8::-webkit-input-placeholder {
+  color: #e0e4ee;
+}
+
+.c8::-moz-placeholder {
+  color: #e0e4ee;
+}
+
+.c8:-ms-input-placeholder {
+  color: #e0e4ee;
+}
+
+.c8::-moz-focus-inner {
+  border: none;
+  outline: none;
+}
+
+.c7 {
+  position: relative;
+  width: 100%;
+}
+
+.c2 button {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  border: none;
+}
+
+@media only screen and (max-width:512px) {
+  .c1 {
+    margin-bottom: 4px;
+  }
+}
+
+@media only screen and (max-width:512px) {
+  .c4 {
+    border: solid 1px #e35e59;
+  }
+}
+
+<div
+  className="c0"
+>
+  <form
+    onReset={[Function]}
+    onSubmit={[Function]}
+  >
+    <div
+      className="c1 c2"
+      onBlur={[Function]}
+      onFocus={[Function]}
+    >
+      <div
+        className="c3"
+        style={
+          Object {
+            "flexDirection": "column",
+          }
+        }
+      >
+        <div
+          className="c3"
+        >
+          <div
+            className="c4 "
+          >
+            <div
+              className="c5"
+            >
+              <div
+                className="c6"
+              >
+                <div
+                  className="c7"
+                >
+                  <input
+                    aria-invalid={true}
+                    autoComplete="off"
+                    className="c8"
+                    name="test"
+                    onBlur={[Function]}
+                    onChange={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            className="c3"
+          >
+            <span
+              className="c9"
+              style={
+                Object {
+                  "position": "static",
+                }
+              }
+            >
+              missing
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`Form infos 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  margin-bottom: 4px;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  border: solid 1px #cdd3e3;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: auto;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c9 {
+  margin-top: 2px;
+  margin-bottom: 2px;
+  margin-left: 8px;
+  font-size: 12px;
+  line-height: 16px;
+  color: #666666;
+}
+
+.c8 {
+  box-sizing: border-box;
+  font-size: inherit;
+  font-family: inherit;
+  border: none;
+  -webkit-appearance: none;
+  background: transparent;
+  color: inherit;
+  box-shadow: inset 1px 1px 1px 0 #cdd3e3;
+  padding: 7px;
+  font-weight: 600;
+  margin: 0;
+  border: 1px solid #cdd3e3;
+  border-radius: 4px;
+  width: 100%;
+  outline: none;
+  border: none;
+  box-shadow: none;
+}
+
+.c8::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+.c8::-webkit-input-placeholder {
+  color: #e0e4ee;
+}
+
+.c8::-moz-placeholder {
+  color: #e0e4ee;
+}
+
+.c8:-ms-input-placeholder {
+  color: #e0e4ee;
+}
+
+.c8::-moz-focus-inner {
+  border: none;
+  outline: none;
+}
+
+.c7 {
+  position: relative;
+  width: 100%;
+}
+
+.c2 button {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  border: none;
+}
+
+@media only screen and (max-width:512px) {
+  .c1 {
+    margin-bottom: 4px;
+  }
+}
+
+@media only screen and (max-width:512px) {
+  .c4 {
+    border: solid 1px #cdd3e3;
+  }
+}
+
+<div
+  className="c0"
+>
+  <form
+    onReset={[Function]}
+    onSubmit={[Function]}
+  >
+    <div
+      className="c1 c2"
+      onBlur={[Function]}
+      onFocus={[Function]}
+    >
+      <div
+        className="c3"
+        style={
+          Object {
+            "flexDirection": "column",
+          }
+        }
+      >
+        <div
+          className="c3"
+        >
+          <div
+            className="c4 "
+          >
+            <div
+              className="c5"
+            >
+              <div
+                className="c6"
+              >
+                <div
+                  className="c7"
+                >
+                  <input
+                    autoComplete="off"
+                    className="c8"
+                    name="test"
+                    onBlur={[Function]}
+                    onChange={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+          <span
+            className="c9"
+          >
+            missing
+          </span>
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`Form lazy value 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c3 {
+  display: inline-block;
+  box-sizing: border-box;
+  cursor: pointer;
+  font: inherit;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  margin: 0;
+  background: transparent;
+  overflow: visible;
+  text-transform: none;
+  border: 2px solid #E15151;
+  border-radius: 3.2px;
+  color: #444444;
+  padding: 2px 14px;
+  font-size: 12px;
+  line-height: 16px;
+  -webkit-transition-property: color,background-color,border-color,box-shadow;
+  transition-property: color,background-color,border-color,box-shadow;
+  -webkit-transition-duration: 0.1s;
+  transition-duration: 0.1s;
+  -webkit-transition-timing-function: ease-in-out;
+  transition-timing-function: ease-in-out;
+}
+
+.c3:hover {
+  box-shadow: 0px 0px 0px 2px #E15151;
+}
+
+.c2 {
+  box-sizing: border-box;
+  font-size: inherit;
+  font-family: inherit;
+  border: none;
+  -webkit-appearance: none;
+  background: transparent;
+  color: inherit;
+  box-shadow: inset 1px 1px 1px 0 #cdd3e3;
+  padding: 7px;
+  font-weight: 600;
+  margin: 0;
+  border: 1px solid #cdd3e3;
+  border-radius: 4px;
+  width: 100%;
+}
+
+.c2::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+.c2::-webkit-input-placeholder {
+  color: #e0e4ee;
+}
+
+.c2::-moz-placeholder {
+  color: #e0e4ee;
+}
+
+.c2:-ms-input-placeholder {
+  color: #e0e4ee;
+}
+
+.c2::-moz-focus-inner {
+  border: none;
+  outline: none;
+}
+
+.c1 {
+  position: relative;
+  width: 100%;
+}
+
+<div
+  class="c0"
+>
+  <form>
+    <div
+      class="c1"
+    >
+      <input
+        autocomplete="off"
+        class="c2"
+        name="test"
+        value=""
+      />
+    </div>
+    <button
+      class="c3"
+      type="button"
+    >
+      set
+    </button>
+    <button
+      class="c3"
+      type="submit"
+    >
+      submit
+    </button>
+  </form>
+</div>
+`;
+
+exports[`Form regexp validation 1`] = `
+.c0 {
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  font-size: 12px;
+  line-height: 16px;
+  color: #e35e59;
+}
+
+@media only screen and (max-width:512px) {
+
+}
+
+@media only screen and (max-width:512px) {
+
+}
+
+@media only screen and (max-width:512px) {
+
+}
+
+<span
+  class="c0"
+  style="position: static;"
+>
+  invalid
+</span>
+`;
+
+exports[`Form required validation 1`] = `
+.c0 {
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  font-size: 12px;
+  line-height: 16px;
+  color: #e35e59;
+}
+
+@media only screen and (max-width:512px) {
+
+}
+
+@media only screen and (max-width:512px) {
+
+}
+
+@media only screen and (max-width:512px) {
+
+}
+
+<span
+  class="c0"
+  style="position: static;"
+>
+  required
+</span>
+`;
+
+exports[`Form uncontrolled 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  margin-bottom: 4px;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  border: solid 1px #cdd3e3;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: auto;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c9 {
+  display: inline-block;
+  box-sizing: border-box;
+  cursor: pointer;
+  font: inherit;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  margin: 0;
+  background: transparent;
+  overflow: visible;
+  text-transform: none;
+  border: 2px solid #E15151;
+  border-radius: 3.2px;
+  color: #444444;
+  padding: 2px 14px;
+  font-size: 12px;
+  line-height: 16px;
+  background-color: #E15151;
+  color: #f8f8f8;
+  border-radius: 3.2px;
+  -webkit-transition-property: color,background-color,border-color,box-shadow;
+  transition-property: color,background-color,border-color,box-shadow;
+  -webkit-transition-duration: 0.1s;
+  transition-duration: 0.1s;
+  -webkit-transition-timing-function: ease-in-out;
+  transition-timing-function: ease-in-out;
+}
+
+.c9:hover {
+  box-shadow: 0px 0px 0px 2px #E15151;
+}
+
+.c8 {
+  box-sizing: border-box;
+  font-size: inherit;
+  font-family: inherit;
+  border: none;
+  -webkit-appearance: none;
+  background: transparent;
+  color: inherit;
+  box-shadow: inset 1px 1px 1px 0 #cdd3e3;
+  padding: 7px;
+  font-weight: 600;
+  margin: 0;
+  border: 1px solid #cdd3e3;
+  border-radius: 4px;
+  width: 100%;
+  outline: none;
+  border: none;
+  box-shadow: none;
+}
+
+.c8::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+.c8::-webkit-input-placeholder {
+  color: #e0e4ee;
+}
+
+.c8::-moz-placeholder {
+  color: #e0e4ee;
+}
+
+.c8:-ms-input-placeholder {
+  color: #e0e4ee;
+}
+
+.c8::-moz-focus-inner {
+  border: none;
+  outline: none;
+}
+
+.c7 {
+  position: relative;
+  width: 100%;
+}
+
+.c2 button {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  border: none;
+}
+
+@media only screen and (max-width:512px) {
+  .c1 {
+    margin-bottom: 4px;
+  }
+}
+
+@media only screen and (max-width:512px) {
+  .c4 {
+    border: solid 1px #cdd3e3;
+  }
+}
+
+<div
+  class="c0"
+>
+  <form>
+    <div
+      class="c1 c2"
+    >
+      <div
+        class="c3"
+        style="flex-direction: column;"
+      >
+        <div
+          class="c3"
+        >
+          <div
+            class="c4 "
+          >
+            <div
+              class="c5"
+            >
+              <div
+                class="c6"
+              >
+                <div
+                  class="c7"
+                >
+                  <input
+                    autocomplete="off"
+                    class="c8"
+                    name="test"
+                    placeholder="test input"
+                    value=""
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button
+      class="c9"
+      type="submit"
+    >
+      Submit
+    </button>
+  </form>
+</div>
+`;
+
+exports[`Form uncontrolled 2`] = `
+<div
+  class="StyledMnetUIBase-sc-17lh5y2-0 HlCER"
+>
+  <form>
+    <div
+      class="StyledBox-sc-1etxkdl-0 fOhVdt FormField__FormFieldBox-sc-13hlgkg-0 izrQiZ"
+    >
+      <div
+        class="StyledBox-sc-1etxkdl-0 iRTtrq"
+        style="flex-direction: column;"
+      >
+        <div
+          class="StyledBox-sc-1etxkdl-0 iRTtrq"
+        >
+          <div
+            class="StyledBox-sc-1etxkdl-0 heeXWd FormField__FormFieldContentBox-sc-13hlgkg-1 bIYGru"
+          >
+            <div
+              class="StyledBox-sc-1etxkdl-0 lkngla"
+            >
+              <div
+                class="StyledBox-sc-1etxkdl-0 dtxnYq"
+              >
+                <div
+                  class="StyledTextInput__StyledTextInputContainer-ilbntv-1 caQufR"
+                >
+                  <input
+                    autocomplete="off"
+                    class="StyledTextInput-ilbntv-0 gGtFPx"
+                    name="test"
+                    placeholder="test input"
+                    value=""
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button
+      class="StyledButton-sc-1hmw3c5-0 dQfxlu"
+      type="submit"
+    >
+      Submit
+    </button>
+  </form>
+</div>
+`;
+
+exports[`Form uncontrolled 3`] = `
+<div
+  class="StyledMnetUIBase-sc-17lh5y2-0 HlCER"
+>
+  <form>
+    <div
+      class="StyledBox-sc-1etxkdl-0 fOhVdt FormField__FormFieldBox-sc-13hlgkg-0 izrQiZ"
+    >
+      <div
+        class="StyledBox-sc-1etxkdl-0 iRTtrq"
+        style="flex-direction: column;"
+      >
+        <div
+          class="StyledBox-sc-1etxkdl-0 iRTtrq"
+        >
+          <div
+            class="StyledBox-sc-1etxkdl-0 heeXWd FormField__FormFieldContentBox-sc-13hlgkg-1 bIYGru"
+          >
+            <div
+              class="StyledBox-sc-1etxkdl-0 lkngla"
+            >
+              <div
+                class="StyledBox-sc-1etxkdl-0 dtxnYq"
+              >
+                <div
+                  class="StyledTextInput__StyledTextInputContainer-ilbntv-1 caQufR"
+                >
+                  <input
+                    autocomplete="off"
+                    class="StyledTextInput-ilbntv-0 gGtFPx"
+                    name="test"
+                    placeholder="test input"
+                    value=""
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button
+      class="StyledButton-sc-1hmw3c5-0 dQfxlu"
+      type="submit"
+    >
+      Submit
+    </button>
+  </form>
+</div>
+`;
+
+exports[`Form update 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  margin-bottom: 4px;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  border: solid 1px #cdd3e3;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: auto;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c9 {
+  display: inline-block;
+  box-sizing: border-box;
+  cursor: pointer;
+  font: inherit;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  margin: 0;
+  background: transparent;
+  overflow: visible;
+  text-transform: none;
+  border: 2px solid #E15151;
+  border-radius: 3.2px;
+  color: #444444;
+  padding: 2px 14px;
+  font-size: 12px;
+  line-height: 16px;
+  background-color: #E15151;
+  color: #f8f8f8;
+  border-radius: 3.2px;
+  -webkit-transition-property: color,background-color,border-color,box-shadow;
+  transition-property: color,background-color,border-color,box-shadow;
+  -webkit-transition-duration: 0.1s;
+  transition-duration: 0.1s;
+  -webkit-transition-timing-function: ease-in-out;
+  transition-timing-function: ease-in-out;
+}
+
+.c9:hover {
+  box-shadow: 0px 0px 0px 2px #E15151;
+}
+
+.c8 {
+  box-sizing: border-box;
+  font-size: inherit;
+  font-family: inherit;
+  border: none;
+  -webkit-appearance: none;
+  background: transparent;
+  color: inherit;
+  box-shadow: inset 1px 1px 1px 0 #cdd3e3;
+  padding: 7px;
+  font-weight: 600;
+  margin: 0;
+  border: 1px solid #cdd3e3;
+  border-radius: 4px;
+  width: 100%;
+  outline: none;
+  border: none;
+  box-shadow: none;
+}
+
+.c8::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+.c8::-webkit-input-placeholder {
+  color: #e0e4ee;
+}
+
+.c8::-moz-placeholder {
+  color: #e0e4ee;
+}
+
+.c8:-ms-input-placeholder {
+  color: #e0e4ee;
+}
+
+.c8::-moz-focus-inner {
+  border: none;
+  outline: none;
+}
+
+.c7 {
+  position: relative;
+  width: 100%;
+}
+
+.c2 button {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  border: none;
+}
+
+@media only screen and (max-width:512px) {
+  .c1 {
+    margin-bottom: 4px;
+  }
+}
+
+@media only screen and (max-width:512px) {
+  .c4 {
+    border: solid 1px #cdd3e3;
+  }
+}
+
+<div
+  class="c0"
+>
+  <form>
+    <div
+      class="c1 c2"
+    >
+      <div
+        class="c3"
+        style="flex-direction: column;"
+      >
+        <div
+          class="c3"
+        >
+          <div
+            class="c4 "
+          >
+            <div
+              class="c5"
+            >
+              <div
+                class="c6"
+              >
+                <div
+                  class="c7"
+                >
+                  <input
+                    autocomplete="off"
+                    class="c8"
+                    name="test"
+                    placeholder="test input"
+                    value=""
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="c1 c2"
+    >
+      <div
+        class="c3"
+        style="flex-direction: column;"
+      >
+        <div
+          class="c3"
+        >
+          <div
+            class="c4 "
+          >
+            <div
+              class="c5"
+            >
+              <div
+                class="c6"
+              >
+                <div
+                  class="c7"
+                >
+                  <input
+                    autocomplete="off"
+                    class="c8"
+                    name="test2"
+                    placeholder="test-2 input"
+                    value=""
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button
+      class="c9"
+      type="submit"
+    >
+      Submit
+    </button>
+  </form>
+</div>
+`;
+
+exports[`Form validate 1`] = `
+.c0 {
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  font-size: 12px;
+  line-height: 16px;
+  color: #e35e59;
+}
+
+@media only screen and (max-width:512px) {
+
+}
+
+@media only screen and (max-width:512px) {
+
+}
+
+@media only screen and (max-width:512px) {
+
+}
+
+<span
+  class="c0"
+  style="position: static;"
+>
+  simple string
+</span>
+`;
+
+exports[`Form validate 2`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+}
+
+@media only screen and (max-width:512px) {
+
+}
+
+@media only screen and (max-width:512px) {
+
+}
+
+@media only screen and (max-width:512px) {
+
+}
+
+@media only screen and (max-width:512px) {
+
+}
+
+@media only screen and (max-width:512px) {
+
+}
+
+<span
+  class="c0"
+>
+   ReactNode 
+</span>
+`;
+
+exports[`Form validate 3`] = `
+.c0 {
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  font-size: 12px;
+  line-height: 16px;
+  color: #e35e59;
+}
+
+@media only screen and (max-width:512px) {
+
+}
+
+@media only screen and (max-width:512px) {
+
+}
+
+@media only screen and (max-width:512px) {
+
+}
+
+@media only screen and (max-width:512px) {
+
+}
+
+@media only screen and (max-width:512px) {
+
+}
+
+<span
+  class="c0"
+  style="position: static;"
+>
+  status error
+</span>
+`;
+
+exports[`Form validate 4`] = `
+.c0 {
+  margin-top: 2px;
+  margin-bottom: 2px;
+  margin-left: 8px;
+  font-size: 12px;
+  line-height: 16px;
+  color: #666666;
+}
+
+@media only screen and (max-width:512px) {
+
+}
+
+@media only screen and (max-width:512px) {
+
+}
+
+@media only screen and (max-width:512px) {
+
+}
+
+@media only screen and (max-width:512px) {
+
+}
+
+@media only screen and (max-width:512px) {
+
+}
+
+<span
+  class="c0"
+>
+  status info
+</span>
+`;
+
+exports[`Form with field 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  margin-bottom: 4px;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  border: solid 1px #cdd3e3;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: auto;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c8 {
+  box-sizing: border-box;
+  font-size: inherit;
+  font-family: inherit;
+  border: none;
+  -webkit-appearance: none;
+  background: transparent;
+  color: inherit;
+  box-shadow: inset 1px 1px 1px 0 #cdd3e3;
+  padding: 7px;
+  font-weight: 600;
+  margin: 0;
+  border: 1px solid #cdd3e3;
+  border-radius: 4px;
+  width: 100%;
+  outline: none;
+  border: none;
+  box-shadow: none;
+}
+
+.c8::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+.c8::-webkit-input-placeholder {
+  color: #e0e4ee;
+}
+
+.c8::-moz-placeholder {
+  color: #e0e4ee;
+}
+
+.c8:-ms-input-placeholder {
+  color: #e0e4ee;
+}
+
+.c8::-moz-focus-inner {
+  border: none;
+  outline: none;
+}
+
+.c7 {
+  position: relative;
+  width: 100%;
+}
+
+.c2 button {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  border: none;
+}
+
+@media only screen and (max-width:512px) {
+  .c1 {
+    margin-bottom: 4px;
+  }
+}
+
+@media only screen and (max-width:512px) {
+  .c4 {
+    border: solid 1px #cdd3e3;
+  }
+}
+
+<div
+  className="c0"
+>
+  <form
+    onReset={[Function]}
+    onSubmit={[Function]}
+  >
+    <div
+      className="c1 c2"
+      onBlur={[Function]}
+      onFocus={[Function]}
+    >
+      <div
+        className="c3"
+        style={
+          Object {
+            "flexDirection": "column",
+          }
+        }
+      >
+        <div
+          className="c3"
+        >
+          <div
+            className="c4 "
+          >
+            <div
+              className="c5"
+            >
+              <div
+                className="c6"
+              >
+                <div
+                  className="c7"
+                >
+                  <input
+                    autoComplete="off"
+                    className="c8"
+                    name="test"
+                    onBlur={[Function]}
+                    onChange={[Function]}
+                    onFocus={[Function]}
+                    onKeyDown={[Function]}
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
+`;

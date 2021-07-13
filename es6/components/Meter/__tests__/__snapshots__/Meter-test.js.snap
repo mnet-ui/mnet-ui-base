@@ -1,0 +1,1189 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Meter background 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.c1 path {
+  -webkit-transition: stroke 0.3s,stroke-width 0.3s;
+  transition: stroke 0.3s,stroke-width 0.3s;
+}
+
+<div
+  className="c0"
+>
+  <svg
+    className="c1"
+    height={8}
+    preserveAspectRatio="none"
+    viewBox="0 0 256 8"
+    width={256}
+  >
+    <path
+      d="M 0,4 L 256,4"
+      fill="none"
+      stroke="#f5f6f8"
+      strokeLinecap="square"
+      strokeWidth={8}
+    />
+    <path
+      d="M 0,4 L 51.2,4"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="butt"
+      strokeWidth={8}
+    />
+  </svg>
+  <svg
+    className="c1"
+    height={8}
+    preserveAspectRatio="none"
+    viewBox="0 0 256 8"
+    width={256}
+  >
+    <path
+      d="M 0,4 L 256,4"
+      fill="none"
+      stroke="#f5f6f8"
+      strokeLinecap="square"
+      strokeOpacity="0.4"
+      strokeWidth={8}
+    />
+    <path
+      d="M 0,4 L 51.2,4"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="butt"
+      strokeWidth={8}
+    />
+  </svg>
+  <svg
+    className="c1"
+    height={256}
+    viewBox="0 0 256 256"
+    width={256}
+  >
+    <circle
+      cx={128}
+      cy={128}
+      fill="none"
+      r={124}
+      stroke="#f5f6f8"
+      strokeLinecap="square"
+      strokeWidth={8}
+    />
+    <path
+      d="M 245.9310080206 89.6818926975 A 124.0000000000 124.0000000000 0 0 0 128.0000000000 4.0000000000"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="butt"
+      strokeWidth={8}
+    />
+  </svg>
+  <svg
+    className="c1"
+    height={256}
+    viewBox="0 0 256 256"
+    width={256}
+  >
+    <circle
+      cx={128}
+      cy={128}
+      fill="none"
+      r={124}
+      stroke="#f5f6f8"
+      strokeLinecap="square"
+      strokeOpacity="0.4"
+      strokeWidth={8}
+    />
+    <path
+      d="M 245.9310080206 89.6818926975 A 124.0000000000 124.0000000000 0 0 0 128.0000000000 4.0000000000"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="butt"
+      strokeWidth={8}
+    />
+  </svg>
+  <svg
+    className="c1"
+    height={8}
+    preserveAspectRatio="none"
+    viewBox="0 0 256 8"
+    width={256}
+  >
+    <path
+      d="M 0,4 L 256,4"
+      fill="none"
+      stroke="#f5f6f8"
+      strokeLinecap="square"
+      strokeOpacity="0.2"
+      strokeWidth={8}
+    />
+    <path
+      d="M 0,4 L 51.2,4"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="butt"
+      strokeWidth={8}
+    />
+  </svg>
+</div>
+`;
+
+exports[`Meter basic 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.c1 path {
+  -webkit-transition: stroke 0.3s,stroke-width 0.3s;
+  transition: stroke 0.3s,stroke-width 0.3s;
+}
+
+<div
+  className="c0"
+>
+  <svg
+    className="c1"
+    height={8}
+    preserveAspectRatio="none"
+    viewBox="0 0 256 8"
+    width={256}
+  >
+    <path
+      d="M 0,4 L 256,4"
+      fill="none"
+      stroke="#f6f6f8"
+      strokeLinecap="square"
+      strokeOpacity="0.4"
+      strokeWidth={8}
+    />
+    <path
+      d="M 0,4 L 51.2,4"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="butt"
+      strokeWidth={8}
+    />
+  </svg>
+</div>
+`;
+
+exports[`Meter default 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.c1 path {
+  -webkit-transition: stroke 0.3s,stroke-width 0.3s;
+  transition: stroke 0.3s,stroke-width 0.3s;
+}
+
+<div
+  className="c0"
+>
+  <svg
+    className="c1"
+    height={8}
+    preserveAspectRatio="none"
+    viewBox="0 0 256 8"
+    width={256}
+  >
+    <path
+      d="M 0,4 L 256,4"
+      fill="none"
+      stroke="#f6f6f8"
+      strokeLinecap="square"
+      strokeOpacity="0.4"
+      strokeWidth={8}
+    />
+  </svg>
+</div>
+`;
+
+exports[`Meter many values 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.c1 path {
+  -webkit-transition: stroke 0.3s,stroke-width 0.3s;
+  transition: stroke 0.3s,stroke-width 0.3s;
+}
+
+<div
+  className="c0"
+>
+  <svg
+    className="c1"
+    height={8}
+    preserveAspectRatio="none"
+    viewBox="0 0 256 8"
+    width={256}
+  >
+    <path
+      d="M 0,4 L 256,4"
+      fill="none"
+      stroke="#f6f6f8"
+      strokeLinecap="square"
+      strokeOpacity="0.4"
+      strokeWidth={8}
+    />
+    <path
+      d="M 224,4 L 256,4"
+      fill="none"
+      stroke="#38C18B"
+      strokeLinecap="butt"
+      strokeWidth={8}
+    />
+    <path
+      d="M 192,4 L 224,4"
+      fill="none"
+      stroke="#519bff"
+      strokeLinecap="butt"
+      strokeWidth={8}
+    />
+    <path
+      d="M 160,4 L 192,4"
+      fill="none"
+      stroke="#99742E"
+      strokeLinecap="butt"
+      strokeWidth={8}
+    />
+    <path
+      d="M 128,4 L 160,4"
+      fill="none"
+      stroke="#00739D"
+      strokeLinecap="butt"
+      strokeWidth={8}
+    />
+    <path
+      d="M 96,4 L 128,4"
+      fill="none"
+      stroke="#A2423D"
+      strokeLinecap="butt"
+      strokeWidth={8}
+    />
+    <path
+      d="M 64,4 L 96,4"
+      fill="none"
+      stroke="#38C18B"
+      strokeLinecap="butt"
+      strokeWidth={8}
+    />
+    <path
+      d="M 32,4 L 64,4"
+      fill="none"
+      stroke="#519bff"
+      strokeLinecap="butt"
+      strokeWidth={8}
+    />
+    <path
+      d="M 0,4 L 32,4"
+      fill="none"
+      stroke="#99742E"
+      strokeLinecap="butt"
+      strokeWidth={8}
+    />
+  </svg>
+</div>
+`;
+
+exports[`Meter round 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  max-width: 100%;
+  overflow: hidden;
+  border-radius: 8px;
+}
+
+.c1 path {
+  -webkit-transition: stroke 0.3s,stroke-width 0.3s;
+  transition: stroke 0.3s,stroke-width 0.3s;
+}
+
+.c2 {
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.c2 path {
+  -webkit-transition: stroke 0.3s,stroke-width 0.3s;
+  transition: stroke 0.3s,stroke-width 0.3s;
+}
+
+<div
+  className="c0"
+>
+  <svg
+    className="c1"
+    height={8}
+    preserveAspectRatio="none"
+    viewBox="0 0 256 8"
+    width={256}
+  >
+    <path
+      d="M 4,4 L 252,4"
+      fill="none"
+      stroke="#f6f6f8"
+      strokeLinecap="round"
+      strokeOpacity="0.4"
+      strokeWidth={8}
+    />
+    <path
+      d="M 4,4 L 53.6,4"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="round"
+      strokeWidth={8}
+    />
+  </svg>
+  <svg
+    className="c2"
+    height={256}
+    viewBox="0 0 256 256"
+    width={256}
+  >
+    <circle
+      cx={128}
+      cy={128}
+      fill="none"
+      r={124}
+      stroke="#f6f6f8"
+      strokeLinecap="round"
+      strokeOpacity="0.4"
+      strokeWidth={8}
+    />
+    <path
+      d="M 245.9310080206 89.6818926975 A 124.0000000000 124.0000000000 0 0 0 128.0000000000 4.0000000000"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="round"
+      strokeWidth={8}
+    />
+    <path
+      d="M 245.9310080206 89.6818926975 A 124.0000000000 124.0000000000 0 0 0 245.5921332456 88.6542226058"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="round"
+      strokeWidth={8}
+    />
+  </svg>
+</div>
+`;
+
+exports[`Meter size 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.c1 path {
+  -webkit-transition: stroke 0.3s,stroke-width 0.3s;
+  transition: stroke 0.3s,stroke-width 0.3s;
+}
+
+<div
+  className="c0"
+>
+  <svg
+    className="c1"
+    height={8}
+    preserveAspectRatio="none"
+    viewBox="0 0 64 8"
+    width={64}
+  >
+    <path
+      d="M 0,4 L 64,4"
+      fill="none"
+      stroke="#f6f6f8"
+      strokeLinecap="square"
+      strokeOpacity="0.4"
+      strokeWidth={8}
+    />
+    <path
+      d="M 0,4 L 12.8,4"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="butt"
+      strokeWidth={8}
+    />
+  </svg>
+  <svg
+    className="c1"
+    height={8}
+    preserveAspectRatio="none"
+    viewBox="0 0 128 8"
+    width={128}
+  >
+    <path
+      d="M 0,4 L 128,4"
+      fill="none"
+      stroke="#f6f6f8"
+      strokeLinecap="square"
+      strokeOpacity="0.4"
+      strokeWidth={8}
+    />
+    <path
+      d="M 0,4 L 25.6,4"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="butt"
+      strokeWidth={8}
+    />
+  </svg>
+  <svg
+    className="c1"
+    height={8}
+    preserveAspectRatio="none"
+    viewBox="0 0 256 8"
+    width={256}
+  >
+    <path
+      d="M 0,4 L 256,4"
+      fill="none"
+      stroke="#f6f6f8"
+      strokeLinecap="square"
+      strokeOpacity="0.4"
+      strokeWidth={8}
+    />
+    <path
+      d="M 0,4 L 51.2,4"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="butt"
+      strokeWidth={8}
+    />
+  </svg>
+  <svg
+    className="c1"
+    height={8}
+    preserveAspectRatio="none"
+    viewBox="0 0 512 8"
+    width={512}
+  >
+    <path
+      d="M 0,4 L 512,4"
+      fill="none"
+      stroke="#f6f6f8"
+      strokeLinecap="square"
+      strokeOpacity="0.4"
+      strokeWidth={8}
+    />
+    <path
+      d="M 0,4 L 102.4,4"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="butt"
+      strokeWidth={8}
+    />
+  </svg>
+  <svg
+    className="c1"
+    height={8}
+    preserveAspectRatio="none"
+    viewBox="0 0 768 8"
+    width={768}
+  >
+    <path
+      d="M 0,4 L 768,4"
+      fill="none"
+      stroke="#f6f6f8"
+      strokeLinecap="square"
+      strokeOpacity="0.4"
+      strokeWidth={8}
+    />
+    <path
+      d="M 0,4 L 153.6,4"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="butt"
+      strokeWidth={8}
+    />
+  </svg>
+  <svg
+    className="c1"
+    height={8}
+    preserveAspectRatio="none"
+    viewBox="0 0 24 8"
+    width={24}
+  >
+    <path
+      d="M 0,4 L 24,4"
+      fill="none"
+      stroke="#f6f6f8"
+      strokeLinecap="square"
+      strokeOpacity="0.4"
+      strokeWidth={8}
+    />
+    <path
+      d="M 0,4 L 4.8,4"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="butt"
+      strokeWidth={8}
+    />
+  </svg>
+  <svg
+    className="c1"
+    height={64}
+    viewBox="0 0 64 64"
+    width={64}
+  >
+    <circle
+      cx={32}
+      cy={32}
+      fill="none"
+      r={28}
+      stroke="#f6f6f8"
+      strokeLinecap="square"
+      strokeOpacity="0.4"
+      strokeWidth={8}
+    />
+    <path
+      d="M 58.6295824563 23.3475241575 A 28.0000000000 28.0000000000 0 0 0 32.0000000000 4.0000000000"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="butt"
+      strokeWidth={8}
+    />
+  </svg>
+  <svg
+    className="c1"
+    height={128}
+    viewBox="0 0 128 128"
+    width={128}
+  >
+    <circle
+      cx={64}
+      cy={64}
+      fill="none"
+      r={60}
+      stroke="#f6f6f8"
+      strokeLinecap="square"
+      strokeOpacity="0.4"
+      strokeWidth={8}
+    />
+    <path
+      d="M 121.0633909777 45.4589803375 A 60.0000000000 60.0000000000 0 0 0 64.0000000000 4.0000000000"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="butt"
+      strokeWidth={8}
+    />
+  </svg>
+  <svg
+    className="c1"
+    height={256}
+    viewBox="0 0 256 256"
+    width={256}
+  >
+    <circle
+      cx={128}
+      cy={128}
+      fill="none"
+      r={124}
+      stroke="#f6f6f8"
+      strokeLinecap="square"
+      strokeOpacity="0.4"
+      strokeWidth={8}
+    />
+    <path
+      d="M 245.9310080206 89.6818926975 A 124.0000000000 124.0000000000 0 0 0 128.0000000000 4.0000000000"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="butt"
+      strokeWidth={8}
+    />
+  </svg>
+  <svg
+    className="c1"
+    height={512}
+    viewBox="0 0 512 512"
+    width={512}
+  >
+    <circle
+      cx={256}
+      cy={256}
+      fill="none"
+      r={252}
+      stroke="#f6f6f8"
+      strokeLinecap="square"
+      strokeOpacity="0.4"
+      strokeWidth={8}
+    />
+    <path
+      d="M 495.6662421064 178.1277174175 A 252.0000000000 252.0000000000 0 0 0 256.0000000000 4.0000000000"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="butt"
+      strokeWidth={8}
+    />
+  </svg>
+  <svg
+    className="c1"
+    height={768}
+    viewBox="0 0 768 768"
+    width={768}
+  >
+    <circle
+      cx={384}
+      cy={384}
+      fill="none"
+      r={380}
+      stroke="#f6f6f8"
+      strokeLinecap="square"
+      strokeOpacity="0.4"
+      strokeWidth={8}
+    />
+    <path
+      d="M 745.4014761922 266.5735421375 A 380.0000000000 380.0000000000 0 0 0 384.0000000000 4.0000000000"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="butt"
+      strokeWidth={8}
+    />
+  </svg>
+  <svg
+    className="c1"
+    height={55}
+    viewBox="0 0 55 55"
+    width={55}
+  >
+    <circle
+      cx={27.5}
+      cy={27.5}
+      fill="none"
+      r={23.5}
+      stroke="#f6f6f8"
+      strokeLinecap="square"
+      strokeOpacity="0.4"
+      strokeWidth={8}
+    />
+    <path
+      d="M 49.8498281329 20.2381006322 A 23.5000000000 23.5000000000 0 0 0 27.5000000000 4.0000000000"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="butt"
+      strokeWidth={8}
+    />
+  </svg>
+</div>
+`;
+
+exports[`Meter thickness 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.c1 path {
+  -webkit-transition: stroke 0.3s,stroke-width 0.3s;
+  transition: stroke 0.3s,stroke-width 0.3s;
+}
+
+<div
+  className="c0"
+>
+  <svg
+    className="c1"
+    height={2}
+    preserveAspectRatio="none"
+    viewBox="0 0 256 2"
+    width={256}
+  >
+    <path
+      d="M 0,1 L 256,1"
+      fill="none"
+      stroke="#f6f6f8"
+      strokeLinecap="square"
+      strokeOpacity="0.4"
+      strokeWidth={2}
+    />
+    <path
+      d="M 0,1 L 51.2,1"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="butt"
+      strokeWidth={2}
+    />
+  </svg>
+  <svg
+    className="c1"
+    height={4}
+    preserveAspectRatio="none"
+    viewBox="0 0 256 4"
+    width={256}
+  >
+    <path
+      d="M 0,2 L 256,2"
+      fill="none"
+      stroke="#f6f6f8"
+      strokeLinecap="square"
+      strokeOpacity="0.4"
+      strokeWidth={4}
+    />
+    <path
+      d="M 0,2 L 51.2,2"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="butt"
+      strokeWidth={4}
+    />
+  </svg>
+  <svg
+    className="c1"
+    height={8}
+    preserveAspectRatio="none"
+    viewBox="0 0 256 8"
+    width={256}
+  >
+    <path
+      d="M 0,4 L 256,4"
+      fill="none"
+      stroke="#f6f6f8"
+      strokeLinecap="square"
+      strokeOpacity="0.4"
+      strokeWidth={8}
+    />
+    <path
+      d="M 0,4 L 51.2,4"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="butt"
+      strokeWidth={8}
+    />
+  </svg>
+  <svg
+    className="c1"
+    height={16}
+    preserveAspectRatio="none"
+    viewBox="0 0 256 16"
+    width={256}
+  >
+    <path
+      d="M 0,8 L 256,8"
+      fill="none"
+      stroke="#f6f6f8"
+      strokeLinecap="square"
+      strokeOpacity="0.4"
+      strokeWidth={16}
+    />
+    <path
+      d="M 0,8 L 51.2,8"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="butt"
+      strokeWidth={16}
+    />
+  </svg>
+  <svg
+    className="c1"
+    height={16}
+    preserveAspectRatio="none"
+    viewBox="0 0 256 16"
+    width={256}
+  >
+    <path
+      d="M 0,8 L 256,8"
+      fill="none"
+      stroke="#f6f6f8"
+      strokeLinecap="square"
+      strokeOpacity="0.4"
+      strokeWidth={16}
+    />
+    <path
+      d="M 0,8 L 51.2,8"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="butt"
+      strokeWidth={16}
+    />
+  </svg>
+  <svg
+    className="c1"
+    height={55}
+    preserveAspectRatio="none"
+    viewBox="0 0 256 55"
+    width={256}
+  >
+    <path
+      d="M 0,27.5 L 256,27.5"
+      fill="none"
+      stroke="#f6f6f8"
+      strokeLinecap="square"
+      strokeOpacity="0.4"
+      strokeWidth={55}
+    />
+    <path
+      d="M 0,27.5 L 51.2,27.5"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="butt"
+      strokeWidth={55}
+    />
+  </svg>
+  <svg
+    className="c1"
+    height={256}
+    viewBox="0 0 256 256"
+    width={256}
+  >
+    <circle
+      cx={128}
+      cy={128}
+      fill="none"
+      r={127}
+      stroke="#f6f6f8"
+      strokeLinecap="square"
+      strokeOpacity="0.4"
+      strokeWidth={2}
+    />
+    <path
+      d="M 248.7841775695 88.7548417144 A 127.0000000000 127.0000000000 0 0 0 128.0000000000 1.0000000000"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="butt"
+      strokeWidth={2}
+    />
+  </svg>
+  <svg
+    className="c1"
+    height={256}
+    viewBox="0 0 256 256"
+    width={256}
+  >
+    <circle
+      cx={128}
+      cy={128}
+      fill="none"
+      r={126}
+      stroke="#f6f6f8"
+      strokeLinecap="square"
+      strokeOpacity="0.4"
+      strokeWidth={4}
+    />
+    <path
+      d="M 247.8331210532 89.0638587088 A 126.0000000000 126.0000000000 0 0 0 128.0000000000 2.0000000000"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="butt"
+      strokeWidth={4}
+    />
+  </svg>
+  <svg
+    className="c1"
+    height={256}
+    viewBox="0 0 256 256"
+    width={256}
+  >
+    <circle
+      cx={128}
+      cy={128}
+      fill="none"
+      r={124}
+      stroke="#f6f6f8"
+      strokeLinecap="square"
+      strokeOpacity="0.4"
+      strokeWidth={8}
+    />
+    <path
+      d="M 245.9310080206 89.6818926975 A 124.0000000000 124.0000000000 0 0 0 128.0000000000 4.0000000000"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="butt"
+      strokeWidth={8}
+    />
+  </svg>
+  <svg
+    className="c1"
+    height={256}
+    viewBox="0 0 256 256"
+    width={256}
+  >
+    <circle
+      cx={128}
+      cy={128}
+      fill="none"
+      r={120}
+      stroke="#f6f6f8"
+      strokeLinecap="square"
+      strokeOpacity="0.4"
+      strokeWidth={16}
+    />
+    <path
+      d="M 242.1267819554 90.9179606750 A 120.0000000000 120.0000000000 0 0 0 128.0000000000 8.0000000000"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="butt"
+      strokeWidth={16}
+    />
+  </svg>
+  <svg
+    className="c1"
+    height={256}
+    viewBox="0 0 256 256"
+    width={256}
+  >
+    <circle
+      cx={128}
+      cy={128}
+      fill="none"
+      r={120}
+      stroke="#f6f6f8"
+      strokeLinecap="square"
+      strokeOpacity="0.4"
+      strokeWidth={16}
+    />
+    <path
+      d="M 242.1267819554 90.9179606750 A 120.0000000000 120.0000000000 0 0 0 128.0000000000 8.0000000000"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="butt"
+      strokeWidth={16}
+    />
+  </svg>
+  <svg
+    className="c1"
+    height={256}
+    viewBox="0 0 256 256"
+    width={256}
+  >
+    <circle
+      cx={128}
+      cy={128}
+      fill="none"
+      r={100.5}
+      stroke="#f6f6f8"
+      strokeLinecap="square"
+      strokeOpacity="0.4"
+      strokeWidth={55}
+    />
+    <path
+      d="M 223.5811798877 96.9437920653 A 100.5000000000 100.5000000000 0 0 0 128.0000000000 27.5000000000"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="butt"
+      strokeWidth={55}
+    />
+  </svg>
+</div>
+`;
+
+exports[`Meter type 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.c1 path {
+  -webkit-transition: stroke 0.3s,stroke-width 0.3s;
+  transition: stroke 0.3s,stroke-width 0.3s;
+}
+
+<div
+  className="c0"
+>
+  <svg
+    className="c1"
+    height={8}
+    preserveAspectRatio="none"
+    viewBox="0 0 256 8"
+    width={256}
+  >
+    <path
+      d="M 0,4 L 256,4"
+      fill="none"
+      stroke="#f6f6f8"
+      strokeLinecap="square"
+      strokeOpacity="0.4"
+      strokeWidth={8}
+    />
+    <path
+      d="M 0,4 L 51.2,4"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="butt"
+      strokeWidth={8}
+    />
+  </svg>
+  <svg
+    className="c1"
+    height={256}
+    viewBox="0 0 256 256"
+    width={256}
+  >
+    <circle
+      cx={128}
+      cy={128}
+      fill="none"
+      r={124}
+      stroke="#f6f6f8"
+      strokeLinecap="square"
+      strokeOpacity="0.4"
+      strokeWidth={8}
+    />
+    <path
+      d="M 245.9310080206 89.6818926975 A 124.0000000000 124.0000000000 0 0 0 128.0000000000 4.0000000000"
+      fill="none"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+      stroke="#38C18B"
+      strokeLinecap="butt"
+      strokeWidth={8}
+    />
+  </svg>
+</div>
+`;

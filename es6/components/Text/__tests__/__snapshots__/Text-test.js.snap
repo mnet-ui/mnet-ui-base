@@ -1,0 +1,378 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  font-size: 12px;
+  line-height: 16px;
+}
+
+<div
+  className="c0"
+>
+  <span
+    className="c1"
+  >
+    text
+  </span>
+</div>
+`;
+
+exports[`renders color 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  font-size: 12px;
+  line-height: 16px;
+  color: #e35e59;
+}
+
+<div
+  className="c0"
+>
+  <span
+    className="c1"
+  />
+</div>
+`;
+
+exports[`renders margin 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  margin: 4px;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.c2 {
+  margin: 8px;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.c3 {
+  margin: 16px;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.c4 {
+  margin: 0px;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.c5 {
+  margin-top: 4px;
+  margin-bottom: 4px;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.c6 {
+  margin-left: 4px;
+  margin-right: 4px;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.c7 {
+  margin-bottom: 4px;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.c8 {
+  margin-top: 4px;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.c9 {
+  margin-left: 4px;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.c10 {
+  margin-right: 4px;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+<div
+  className="c0"
+>
+  <span
+    className="c1"
+  />
+  <span
+    className="c2"
+  />
+  <span
+    className="c3"
+  />
+  <span
+    className="c4"
+  />
+  <span
+    className="c5"
+  />
+  <span
+    className="c6"
+  />
+  <span
+    className="c7"
+  />
+  <span
+    className="c8"
+  />
+  <span
+    className="c9"
+  />
+  <span
+    className="c10"
+  />
+</div>
+`;
+
+exports[`renders size 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  font-size: 8px;
+  line-height: 12px;
+}
+
+.c2 {
+  font-size: 9.333333333333334px;
+  line-height: 13.333333333333334px;
+}
+
+.c3 {
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.c4 {
+  font-size: 14.666666666666666px;
+  line-height: 18.666666666666668px;
+}
+
+.c5 {
+  font-size: 17.333333333333332px;
+  line-height: 21.333333333333332px;
+}
+
+.c6 {
+  font-size: 22.666666666666664px;
+  line-height: 26.666666666666664px;
+}
+
+<div
+  className="c0"
+>
+  <span
+    className="c1"
+    size="xsmall"
+  />
+  <span
+    className="c2"
+    size="small"
+  />
+  <span
+    className="c3"
+    size="medium"
+  />
+  <span
+    className="c4"
+    size="large"
+  />
+  <span
+    className="c5"
+    size="xlarge"
+  />
+  <span
+    className="c6"
+    size="xxlarge"
+  />
+</div>
+`;
+
+exports[`renders tag 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  font-size: 12px;
+  line-height: 16px;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  />
+</div>
+`;
+
+exports[`renders textAlign 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  font-size: 12px;
+  line-height: 16px;
+  text-align: left;
+}
+
+.c2 {
+  font-size: 12px;
+  line-height: 16px;
+  text-align: center;
+}
+
+.c3 {
+  font-size: 12px;
+  line-height: 16px;
+  text-align: right;
+}
+
+<div
+  className="c0"
+>
+  <span
+    className="c1"
+  />
+  <span
+    className="c2"
+  />
+  <span
+    className="c3"
+  />
+</div>
+`;
+
+exports[`renders truncate 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.c2 {
+  font-size: 12px;
+  line-height: 16px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+<div
+  className="c0"
+>
+  <span
+    className="c1"
+  >
+    a b c d e f g h i j k l m n o p q r s t u v w x y z
+  </span>
+  <span
+    className="c2"
+  >
+    a b c d e f g h i j k l m n o p q r s t u v w x y z
+  </span>
+</div>
+`;
+
+exports[`renders weight 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: normal;
+}
+
+.c2 {
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: bold;
+}
+
+<div
+  className="c0"
+>
+  <span
+    className="c1"
+  />
+  <span
+    className="c2"
+  />
+</div>
+`;

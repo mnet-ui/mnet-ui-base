@@ -1,0 +1,3095 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Clock hourLimit 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c2 {
+  position: relative;
+  width: 0.8em;
+  text-align: center;
+  overflow: hidden;
+  font-size: 12px;
+  line-height: 1.375;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      size="medium"
+    >
+      0
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      6
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      :
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      2
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      3
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      :
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      3
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      4
+    </div>
+  </div>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      size="medium"
+    >
+      1
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      8
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      :
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      2
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      3
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      :
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      3
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      4
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Clock run 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c4 {
+  stroke-width: 5.333333333333333px;
+  stroke: #65707d;
+  -webkit-transition: stroke 1s ease-out;
+  transition: stroke 1s ease-out;
+}
+
+.c3 {
+  stroke-width: 2.6666666666666665px;
+  stroke: #65707d;
+  -webkit-transition: stroke 1s ease-out;
+  transition: stroke 1s ease-out;
+}
+
+.c2 {
+  stroke-width: 2px;
+  stroke: #38C18B;
+  -webkit-transition: stroke 1s ease-out;
+  transition: stroke 1s ease-out;
+}
+
+.c1 {
+  width: 64px;
+  height: 64px;
+}
+
+.c6 {
+  position: relative;
+  width: 0.8em;
+  text-align: center;
+  overflow: hidden;
+  font-size: 12px;
+  line-height: 1.375;
+}
+
+<div
+  class="c0"
+>
+  <svg
+    class="c1"
+    height="64"
+    preserveAspectRatio="xMidYMid meet"
+    version="1.1"
+    viewBox="0 0 64 64"
+    width="64"
+  >
+    <line
+      class="c2"
+      stroke="#000000"
+      stroke-linecap="round"
+      style="transform: rotate(204deg); transform-origin: 32px 32px;"
+      x1="32"
+      x2="32"
+      y1="32"
+      y2="6"
+    />
+    <line
+      class="c3"
+      stroke="#000000"
+      stroke-linecap="round"
+      style="transform: rotate(138deg); transform-origin: 32px 32px;"
+      x1="32"
+      x2="32"
+      y1="32"
+      y2="8"
+    />
+    <line
+      class="c4"
+      stroke="#000000"
+      stroke-linecap="round"
+      style="transform: rotate(191.5deg); transform-origin: 32px 32px;"
+      x1="32"
+      x2="32"
+      y1="32"
+      y2="16"
+    />
+  </svg>
+  <svg
+    class="c1"
+    height="64"
+    preserveAspectRatio="xMidYMid meet"
+    version="1.1"
+    viewBox="0 0 64 64"
+    width="64"
+  >
+    <line
+      class="c2"
+      stroke="#000000"
+      stroke-linecap="round"
+      style="transform: rotate(204deg); transform-origin: 32px 32px;"
+      x1="32"
+      x2="32"
+      y1="32"
+      y2="6"
+    />
+    <line
+      class="c3"
+      stroke="#000000"
+      stroke-linecap="round"
+      style="transform: rotate(138deg); transform-origin: 32px 32px;"
+      x1="32"
+      x2="32"
+      y1="32"
+      y2="8"
+    />
+    <line
+      class="c4"
+      stroke="#000000"
+      stroke-linecap="round"
+      style="transform: rotate(191.5deg); transform-origin: 32px 32px;"
+      x1="32"
+      x2="32"
+      y1="32"
+      y2="16"
+    />
+  </svg>
+  <div
+    class="c5"
+  >
+    <div
+      class="c6"
+    >
+      1
+    </div>
+    <div
+      class="c6"
+    >
+      8
+    </div>
+    <div
+      class="c6"
+    >
+      :
+    </div>
+    <div
+      class="c6"
+    >
+      2
+    </div>
+    <div
+      class="c6"
+    >
+      3
+    </div>
+    <div
+      class="c6"
+    >
+      :
+    </div>
+    <div
+      class="c6"
+    >
+      3
+    </div>
+    <div
+      class="c6"
+    >
+      4
+    </div>
+  </div>
+  <div
+    class="c5"
+  >
+    <div
+      class="c6"
+    >
+      1
+    </div>
+    <div
+      class="c6"
+    >
+      8
+    </div>
+    <div
+      class="c6"
+    >
+      :
+    </div>
+    <div
+      class="c6"
+    >
+      2
+    </div>
+    <div
+      class="c6"
+    >
+      3
+    </div>
+    <div
+      class="c6"
+    >
+      :
+    </div>
+    <div
+      class="c6"
+    >
+      3
+    </div>
+    <div
+      class="c6"
+    >
+      4
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Clock run 2`] = `
+<div
+  class="StyledMnetUIBase-sc-17lh5y2-0 HlCER"
+>
+  <svg
+    class="StyledClock__StyledAnalog-sc-1qbr2eo-3 jbDlGW"
+    height="64"
+    preserveAspectRatio="xMidYMid meet"
+    version="1.1"
+    viewBox="0 0 64 64"
+    width="64"
+  >
+    <line
+      class="StyledClock__StyledSecond-sc-1qbr2eo-2 egSDgo"
+      stroke="#000000"
+      stroke-linecap="round"
+      style="transform: rotate(210deg); transform-origin: 32px 32px;"
+      x1="32"
+      x2="32"
+      y1="32"
+      y2="6"
+    />
+    <line
+      class="StyledClock__StyledMinute-sc-1qbr2eo-1 hYdzUk"
+      stroke="#000000"
+      stroke-linecap="round"
+      style="transform: rotate(138deg); transform-origin: 32px 32px;"
+      x1="32"
+      x2="32"
+      y1="32"
+      y2="8"
+    />
+    <line
+      class="StyledClock__StyledHour-sc-1qbr2eo-0 fghXmk"
+      stroke="#000000"
+      stroke-linecap="round"
+      style="transform: rotate(191.5deg); transform-origin: 32px 32px;"
+      x1="32"
+      x2="32"
+      y1="32"
+      y2="16"
+    />
+  </svg>
+  <svg
+    class="StyledClock__StyledAnalog-sc-1qbr2eo-3 jbDlGW"
+    height="64"
+    preserveAspectRatio="xMidYMid meet"
+    version="1.1"
+    viewBox="0 0 64 64"
+    width="64"
+  >
+    <line
+      class="StyledClock__StyledSecond-sc-1qbr2eo-2 egSDgo"
+      stroke="#000000"
+      stroke-linecap="round"
+      style="transform: rotate(198deg); transform-origin: 32px 32px;"
+      x1="32"
+      x2="32"
+      y1="32"
+      y2="6"
+    />
+    <line
+      class="StyledClock__StyledMinute-sc-1qbr2eo-1 hYdzUk"
+      stroke="#000000"
+      stroke-linecap="round"
+      style="transform: rotate(138deg); transform-origin: 32px 32px;"
+      x1="32"
+      x2="32"
+      y1="32"
+      y2="8"
+    />
+    <line
+      class="StyledClock__StyledHour-sc-1qbr2eo-0 fghXmk"
+      stroke="#000000"
+      stroke-linecap="round"
+      style="transform: rotate(191.5deg); transform-origin: 32px 32px;"
+      x1="32"
+      x2="32"
+      y1="32"
+      y2="16"
+    />
+  </svg>
+  <div
+    class="StyledBox-sc-1etxkdl-0 dtxnYq"
+  >
+    <div
+      class="StyledClock__StyledDigitalDigit-sc-1qbr2eo-4 jPfuWo"
+    >
+      1
+    </div>
+    <div
+      class="StyledClock__StyledDigitalDigit-sc-1qbr2eo-4 jPfuWo"
+    >
+      8
+    </div>
+    <div
+      class="StyledClock__StyledDigitalDigit-sc-1qbr2eo-4 jPfuWo"
+    >
+      :
+    </div>
+    <div
+      class="StyledClock__StyledDigitalDigit-sc-1qbr2eo-4 jPfuWo"
+    >
+      2
+    </div>
+    <div
+      class="StyledClock__StyledDigitalDigit-sc-1qbr2eo-4 jPfuWo"
+    >
+      3
+    </div>
+    <div
+      class="StyledClock__StyledDigitalDigit-sc-1qbr2eo-4 jPfuWo"
+    >
+      :
+    </div>
+    <div
+      class="StyledClock__StyledDigitalDigit-sc-1qbr2eo-4 jPfuWo"
+    >
+      3
+    </div>
+    <div
+      class="StyledClock__StyledDigitalDigit-sc-1qbr2eo-4 jPfuWo"
+    >
+      .c0 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0.8em;
+  text-align: center;
+  -webkit-animation: gDuLQv 0.5s forwards;
+  animation: gDuLQv 0.5s forwards;
+}
+
+<div
+        class="c0"
+        direction="up"
+      >
+        4
+      </div>
+      .c0 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0.8em;
+  text-align: center;
+  -webkit-animation: cQwfQi 0.5s forwards;
+  animation: cQwfQi 0.5s forwards;
+}
+
+<div
+        class="c0"
+        direction="up"
+      >
+        5
+      </div>
+    </div>
+  </div>
+  <div
+    class="StyledBox-sc-1etxkdl-0 dtxnYq"
+  >
+    <div
+      class="StyledClock__StyledDigitalDigit-sc-1qbr2eo-4 jPfuWo"
+    >
+      1
+    </div>
+    <div
+      class="StyledClock__StyledDigitalDigit-sc-1qbr2eo-4 jPfuWo"
+    >
+      8
+    </div>
+    <div
+      class="StyledClock__StyledDigitalDigit-sc-1qbr2eo-4 jPfuWo"
+    >
+      :
+    </div>
+    <div
+      class="StyledClock__StyledDigitalDigit-sc-1qbr2eo-4 jPfuWo"
+    >
+      2
+    </div>
+    <div
+      class="StyledClock__StyledDigitalDigit-sc-1qbr2eo-4 jPfuWo"
+    >
+      3
+    </div>
+    <div
+      class="StyledClock__StyledDigitalDigit-sc-1qbr2eo-4 jPfuWo"
+    >
+      :
+    </div>
+    <div
+      class="StyledClock__StyledDigitalDigit-sc-1qbr2eo-4 jPfuWo"
+    >
+      3
+    </div>
+    <div
+      class="StyledClock__StyledDigitalDigit-sc-1qbr2eo-4 jPfuWo"
+    >
+      .c0 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0.8em;
+  text-align: center;
+  -webkit-animation: buZueW 0.5s forwards;
+  animation: buZueW 0.5s forwards;
+}
+
+<div
+        class="c0"
+        direction="down"
+      >
+        4
+      </div>
+      .c0 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0.8em;
+  text-align: center;
+  -webkit-animation: ffftsv 0.5s forwards;
+  animation: ffftsv 0.5s forwards;
+}
+
+<div
+        class="c0"
+        direction="down"
+      >
+        3
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Clock time 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c2 {
+  position: relative;
+  width: 0.8em;
+  text-align: center;
+  overflow: hidden;
+  font-size: 12px;
+  line-height: 1.375;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      size="medium"
+    >
+      1
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      8
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      :
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      2
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      3
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      :
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      3
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      4
+    </div>
+  </div>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      size="medium"
+    >
+      1
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      8
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      :
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      2
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      3
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      :
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      3
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      4
+    </div>
+  </div>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      size="medium"
+    >
+      1
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      8
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      :
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      2
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      3
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      :
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      0
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      0
+    </div>
+  </div>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      size="medium"
+    >
+      1
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      8
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      :
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      2
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      3
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      :
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      3
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      4
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Clock type analog precision hours size large 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c2 {
+  stroke-width: 5.333333333333333px;
+  stroke: #65707d;
+  -webkit-transition: stroke 1s ease-out;
+  transition: stroke 1s ease-out;
+}
+
+.c1 {
+  width: 96px;
+  height: 96px;
+}
+
+<div
+  className="c0"
+>
+  <svg
+    className="c1"
+    height={64}
+    preserveAspectRatio="xMidYMid meet"
+    size="large"
+    version="1.1"
+    viewBox="0 0 64 64"
+    width={64}
+  >
+    <line
+      className="c2"
+      stroke="#000000"
+      strokeLinecap="round"
+      style={
+        Object {
+          "transform": "rotate(191.5deg)",
+          "transformOrigin": "32px 32px",
+        }
+      }
+      x1={32}
+      x2={32}
+      y1={32}
+      y2={16}
+    />
+  </svg>
+</div>
+`;
+
+exports[`Clock type analog precision hours size medium 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c2 {
+  stroke-width: 5.333333333333333px;
+  stroke: #65707d;
+  -webkit-transition: stroke 1s ease-out;
+  transition: stroke 1s ease-out;
+}
+
+.c1 {
+  width: 64px;
+  height: 64px;
+}
+
+<div
+  className="c0"
+>
+  <svg
+    className="c1"
+    height={64}
+    preserveAspectRatio="xMidYMid meet"
+    size="medium"
+    version="1.1"
+    viewBox="0 0 64 64"
+    width={64}
+  >
+    <line
+      className="c2"
+      stroke="#000000"
+      strokeLinecap="round"
+      style={
+        Object {
+          "transform": "rotate(191.5deg)",
+          "transformOrigin": "32px 32px",
+        }
+      }
+      x1={32}
+      x2={32}
+      y1={32}
+      y2={16}
+    />
+  </svg>
+</div>
+`;
+
+exports[`Clock type analog precision hours size small 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c2 {
+  stroke-width: 5.333333333333333px;
+  stroke: #65707d;
+  -webkit-transition: stroke 1s ease-out;
+  transition: stroke 1s ease-out;
+}
+
+.c1 {
+  width: 48px;
+  height: 48px;
+}
+
+<div
+  className="c0"
+>
+  <svg
+    className="c1"
+    height={64}
+    preserveAspectRatio="xMidYMid meet"
+    size="small"
+    version="1.1"
+    viewBox="0 0 64 64"
+    width={64}
+  >
+    <line
+      className="c2"
+      stroke="#000000"
+      strokeLinecap="round"
+      style={
+        Object {
+          "transform": "rotate(191.5deg)",
+          "transformOrigin": "32px 32px",
+        }
+      }
+      x1={32}
+      x2={32}
+      y1={32}
+      y2={16}
+    />
+  </svg>
+</div>
+`;
+
+exports[`Clock type analog precision hours size xlarge 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c2 {
+  stroke-width: 5.333333333333333px;
+  stroke: #65707d;
+  -webkit-transition: stroke 1s ease-out;
+  transition: stroke 1s ease-out;
+}
+
+.c1 {
+  width: 144px;
+  height: 144px;
+}
+
+<div
+  className="c0"
+>
+  <svg
+    className="c1"
+    height={64}
+    preserveAspectRatio="xMidYMid meet"
+    size="xlarge"
+    version="1.1"
+    viewBox="0 0 64 64"
+    width={64}
+  >
+    <line
+      className="c2"
+      stroke="#000000"
+      strokeLinecap="round"
+      style={
+        Object {
+          "transform": "rotate(191.5deg)",
+          "transformOrigin": "32px 32px",
+        }
+      }
+      x1={32}
+      x2={32}
+      y1={32}
+      y2={16}
+    />
+  </svg>
+</div>
+`;
+
+exports[`Clock type analog precision hours size xsmall 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  stroke-width: 5.333333333333333px;
+  stroke: #65707d;
+  -webkit-transition: stroke 1s ease-out;
+  transition: stroke 1s ease-out;
+}
+
+<div
+  className="c0"
+>
+  <svg
+    className=""
+    height={64}
+    preserveAspectRatio="xMidYMid meet"
+    size="xsmall"
+    version="1.1"
+    viewBox="0 0 64 64"
+    width={64}
+  >
+    <line
+      className="c1"
+      stroke="#000000"
+      strokeLinecap="round"
+      style={
+        Object {
+          "transform": "rotate(191.5deg)",
+          "transformOrigin": "32px 32px",
+        }
+      }
+      x1={32}
+      x2={32}
+      y1={32}
+      y2={16}
+    />
+  </svg>
+</div>
+`;
+
+exports[`Clock type analog precision minutes size large 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c3 {
+  stroke-width: 5.333333333333333px;
+  stroke: #65707d;
+  -webkit-transition: stroke 1s ease-out;
+  transition: stroke 1s ease-out;
+}
+
+.c2 {
+  stroke-width: 2.6666666666666665px;
+  stroke: #65707d;
+  -webkit-transition: stroke 1s ease-out;
+  transition: stroke 1s ease-out;
+}
+
+.c1 {
+  width: 96px;
+  height: 96px;
+}
+
+<div
+  className="c0"
+>
+  <svg
+    className="c1"
+    height={64}
+    preserveAspectRatio="xMidYMid meet"
+    size="large"
+    version="1.1"
+    viewBox="0 0 64 64"
+    width={64}
+  >
+    <line
+      className="c2"
+      stroke="#000000"
+      strokeLinecap="round"
+      style={
+        Object {
+          "transform": "rotate(138deg)",
+          "transformOrigin": "32px 32px",
+        }
+      }
+      x1={32}
+      x2={32}
+      y1={32}
+      y2={8}
+    />
+    <line
+      className="c3"
+      stroke="#000000"
+      strokeLinecap="round"
+      style={
+        Object {
+          "transform": "rotate(191.5deg)",
+          "transformOrigin": "32px 32px",
+        }
+      }
+      x1={32}
+      x2={32}
+      y1={32}
+      y2={16}
+    />
+  </svg>
+</div>
+`;
+
+exports[`Clock type analog precision minutes size medium 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c3 {
+  stroke-width: 5.333333333333333px;
+  stroke: #65707d;
+  -webkit-transition: stroke 1s ease-out;
+  transition: stroke 1s ease-out;
+}
+
+.c2 {
+  stroke-width: 2.6666666666666665px;
+  stroke: #65707d;
+  -webkit-transition: stroke 1s ease-out;
+  transition: stroke 1s ease-out;
+}
+
+.c1 {
+  width: 64px;
+  height: 64px;
+}
+
+<div
+  className="c0"
+>
+  <svg
+    className="c1"
+    height={64}
+    preserveAspectRatio="xMidYMid meet"
+    size="medium"
+    version="1.1"
+    viewBox="0 0 64 64"
+    width={64}
+  >
+    <line
+      className="c2"
+      stroke="#000000"
+      strokeLinecap="round"
+      style={
+        Object {
+          "transform": "rotate(138deg)",
+          "transformOrigin": "32px 32px",
+        }
+      }
+      x1={32}
+      x2={32}
+      y1={32}
+      y2={8}
+    />
+    <line
+      className="c3"
+      stroke="#000000"
+      strokeLinecap="round"
+      style={
+        Object {
+          "transform": "rotate(191.5deg)",
+          "transformOrigin": "32px 32px",
+        }
+      }
+      x1={32}
+      x2={32}
+      y1={32}
+      y2={16}
+    />
+  </svg>
+</div>
+`;
+
+exports[`Clock type analog precision minutes size small 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c3 {
+  stroke-width: 5.333333333333333px;
+  stroke: #65707d;
+  -webkit-transition: stroke 1s ease-out;
+  transition: stroke 1s ease-out;
+}
+
+.c2 {
+  stroke-width: 2.6666666666666665px;
+  stroke: #65707d;
+  -webkit-transition: stroke 1s ease-out;
+  transition: stroke 1s ease-out;
+}
+
+.c1 {
+  width: 48px;
+  height: 48px;
+}
+
+<div
+  className="c0"
+>
+  <svg
+    className="c1"
+    height={64}
+    preserveAspectRatio="xMidYMid meet"
+    size="small"
+    version="1.1"
+    viewBox="0 0 64 64"
+    width={64}
+  >
+    <line
+      className="c2"
+      stroke="#000000"
+      strokeLinecap="round"
+      style={
+        Object {
+          "transform": "rotate(138deg)",
+          "transformOrigin": "32px 32px",
+        }
+      }
+      x1={32}
+      x2={32}
+      y1={32}
+      y2={8}
+    />
+    <line
+      className="c3"
+      stroke="#000000"
+      strokeLinecap="round"
+      style={
+        Object {
+          "transform": "rotate(191.5deg)",
+          "transformOrigin": "32px 32px",
+        }
+      }
+      x1={32}
+      x2={32}
+      y1={32}
+      y2={16}
+    />
+  </svg>
+</div>
+`;
+
+exports[`Clock type analog precision minutes size xlarge 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c3 {
+  stroke-width: 5.333333333333333px;
+  stroke: #65707d;
+  -webkit-transition: stroke 1s ease-out;
+  transition: stroke 1s ease-out;
+}
+
+.c2 {
+  stroke-width: 2.6666666666666665px;
+  stroke: #65707d;
+  -webkit-transition: stroke 1s ease-out;
+  transition: stroke 1s ease-out;
+}
+
+.c1 {
+  width: 144px;
+  height: 144px;
+}
+
+<div
+  className="c0"
+>
+  <svg
+    className="c1"
+    height={64}
+    preserveAspectRatio="xMidYMid meet"
+    size="xlarge"
+    version="1.1"
+    viewBox="0 0 64 64"
+    width={64}
+  >
+    <line
+      className="c2"
+      stroke="#000000"
+      strokeLinecap="round"
+      style={
+        Object {
+          "transform": "rotate(138deg)",
+          "transformOrigin": "32px 32px",
+        }
+      }
+      x1={32}
+      x2={32}
+      y1={32}
+      y2={8}
+    />
+    <line
+      className="c3"
+      stroke="#000000"
+      strokeLinecap="round"
+      style={
+        Object {
+          "transform": "rotate(191.5deg)",
+          "transformOrigin": "32px 32px",
+        }
+      }
+      x1={32}
+      x2={32}
+      y1={32}
+      y2={16}
+    />
+  </svg>
+</div>
+`;
+
+exports[`Clock type analog precision minutes size xsmall 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c2 {
+  stroke-width: 5.333333333333333px;
+  stroke: #65707d;
+  -webkit-transition: stroke 1s ease-out;
+  transition: stroke 1s ease-out;
+}
+
+.c1 {
+  stroke-width: 2.6666666666666665px;
+  stroke: #65707d;
+  -webkit-transition: stroke 1s ease-out;
+  transition: stroke 1s ease-out;
+}
+
+<div
+  className="c0"
+>
+  <svg
+    className=""
+    height={64}
+    preserveAspectRatio="xMidYMid meet"
+    size="xsmall"
+    version="1.1"
+    viewBox="0 0 64 64"
+    width={64}
+  >
+    <line
+      className="c1"
+      stroke="#000000"
+      strokeLinecap="round"
+      style={
+        Object {
+          "transform": "rotate(138deg)",
+          "transformOrigin": "32px 32px",
+        }
+      }
+      x1={32}
+      x2={32}
+      y1={32}
+      y2={8}
+    />
+    <line
+      className="c2"
+      stroke="#000000"
+      strokeLinecap="round"
+      style={
+        Object {
+          "transform": "rotate(191.5deg)",
+          "transformOrigin": "32px 32px",
+        }
+      }
+      x1={32}
+      x2={32}
+      y1={32}
+      y2={16}
+    />
+  </svg>
+</div>
+`;
+
+exports[`Clock type analog precision seconds size large 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c4 {
+  stroke-width: 5.333333333333333px;
+  stroke: #65707d;
+  -webkit-transition: stroke 1s ease-out;
+  transition: stroke 1s ease-out;
+}
+
+.c3 {
+  stroke-width: 2.6666666666666665px;
+  stroke: #65707d;
+  -webkit-transition: stroke 1s ease-out;
+  transition: stroke 1s ease-out;
+}
+
+.c2 {
+  stroke-width: 2px;
+  stroke: #38C18B;
+  -webkit-transition: stroke 1s ease-out;
+  transition: stroke 1s ease-out;
+}
+
+.c1 {
+  width: 96px;
+  height: 96px;
+}
+
+<div
+  className="c0"
+>
+  <svg
+    className="c1"
+    height={64}
+    preserveAspectRatio="xMidYMid meet"
+    size="large"
+    version="1.1"
+    viewBox="0 0 64 64"
+    width={64}
+  >
+    <line
+      className="c2"
+      stroke="#000000"
+      strokeLinecap="round"
+      style={
+        Object {
+          "transform": "rotate(204deg)",
+          "transformOrigin": "32px 32px",
+        }
+      }
+      x1={32}
+      x2={32}
+      y1={32}
+      y2={6}
+    />
+    <line
+      className="c3"
+      stroke="#000000"
+      strokeLinecap="round"
+      style={
+        Object {
+          "transform": "rotate(138deg)",
+          "transformOrigin": "32px 32px",
+        }
+      }
+      x1={32}
+      x2={32}
+      y1={32}
+      y2={8}
+    />
+    <line
+      className="c4"
+      stroke="#000000"
+      strokeLinecap="round"
+      style={
+        Object {
+          "transform": "rotate(191.5deg)",
+          "transformOrigin": "32px 32px",
+        }
+      }
+      x1={32}
+      x2={32}
+      y1={32}
+      y2={16}
+    />
+  </svg>
+</div>
+`;
+
+exports[`Clock type analog precision seconds size medium 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c4 {
+  stroke-width: 5.333333333333333px;
+  stroke: #65707d;
+  -webkit-transition: stroke 1s ease-out;
+  transition: stroke 1s ease-out;
+}
+
+.c3 {
+  stroke-width: 2.6666666666666665px;
+  stroke: #65707d;
+  -webkit-transition: stroke 1s ease-out;
+  transition: stroke 1s ease-out;
+}
+
+.c2 {
+  stroke-width: 2px;
+  stroke: #38C18B;
+  -webkit-transition: stroke 1s ease-out;
+  transition: stroke 1s ease-out;
+}
+
+.c1 {
+  width: 64px;
+  height: 64px;
+}
+
+<div
+  className="c0"
+>
+  <svg
+    className="c1"
+    height={64}
+    preserveAspectRatio="xMidYMid meet"
+    size="medium"
+    version="1.1"
+    viewBox="0 0 64 64"
+    width={64}
+  >
+    <line
+      className="c2"
+      stroke="#000000"
+      strokeLinecap="round"
+      style={
+        Object {
+          "transform": "rotate(204deg)",
+          "transformOrigin": "32px 32px",
+        }
+      }
+      x1={32}
+      x2={32}
+      y1={32}
+      y2={6}
+    />
+    <line
+      className="c3"
+      stroke="#000000"
+      strokeLinecap="round"
+      style={
+        Object {
+          "transform": "rotate(138deg)",
+          "transformOrigin": "32px 32px",
+        }
+      }
+      x1={32}
+      x2={32}
+      y1={32}
+      y2={8}
+    />
+    <line
+      className="c4"
+      stroke="#000000"
+      strokeLinecap="round"
+      style={
+        Object {
+          "transform": "rotate(191.5deg)",
+          "transformOrigin": "32px 32px",
+        }
+      }
+      x1={32}
+      x2={32}
+      y1={32}
+      y2={16}
+    />
+  </svg>
+</div>
+`;
+
+exports[`Clock type analog precision seconds size small 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c4 {
+  stroke-width: 5.333333333333333px;
+  stroke: #65707d;
+  -webkit-transition: stroke 1s ease-out;
+  transition: stroke 1s ease-out;
+}
+
+.c3 {
+  stroke-width: 2.6666666666666665px;
+  stroke: #65707d;
+  -webkit-transition: stroke 1s ease-out;
+  transition: stroke 1s ease-out;
+}
+
+.c2 {
+  stroke-width: 2px;
+  stroke: #38C18B;
+  -webkit-transition: stroke 1s ease-out;
+  transition: stroke 1s ease-out;
+}
+
+.c1 {
+  width: 48px;
+  height: 48px;
+}
+
+<div
+  className="c0"
+>
+  <svg
+    className="c1"
+    height={64}
+    preserveAspectRatio="xMidYMid meet"
+    size="small"
+    version="1.1"
+    viewBox="0 0 64 64"
+    width={64}
+  >
+    <line
+      className="c2"
+      stroke="#000000"
+      strokeLinecap="round"
+      style={
+        Object {
+          "transform": "rotate(204deg)",
+          "transformOrigin": "32px 32px",
+        }
+      }
+      x1={32}
+      x2={32}
+      y1={32}
+      y2={6}
+    />
+    <line
+      className="c3"
+      stroke="#000000"
+      strokeLinecap="round"
+      style={
+        Object {
+          "transform": "rotate(138deg)",
+          "transformOrigin": "32px 32px",
+        }
+      }
+      x1={32}
+      x2={32}
+      y1={32}
+      y2={8}
+    />
+    <line
+      className="c4"
+      stroke="#000000"
+      strokeLinecap="round"
+      style={
+        Object {
+          "transform": "rotate(191.5deg)",
+          "transformOrigin": "32px 32px",
+        }
+      }
+      x1={32}
+      x2={32}
+      y1={32}
+      y2={16}
+    />
+  </svg>
+</div>
+`;
+
+exports[`Clock type analog precision seconds size xlarge 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c4 {
+  stroke-width: 5.333333333333333px;
+  stroke: #65707d;
+  -webkit-transition: stroke 1s ease-out;
+  transition: stroke 1s ease-out;
+}
+
+.c3 {
+  stroke-width: 2.6666666666666665px;
+  stroke: #65707d;
+  -webkit-transition: stroke 1s ease-out;
+  transition: stroke 1s ease-out;
+}
+
+.c2 {
+  stroke-width: 2px;
+  stroke: #38C18B;
+  -webkit-transition: stroke 1s ease-out;
+  transition: stroke 1s ease-out;
+}
+
+.c1 {
+  width: 144px;
+  height: 144px;
+}
+
+<div
+  className="c0"
+>
+  <svg
+    className="c1"
+    height={64}
+    preserveAspectRatio="xMidYMid meet"
+    size="xlarge"
+    version="1.1"
+    viewBox="0 0 64 64"
+    width={64}
+  >
+    <line
+      className="c2"
+      stroke="#000000"
+      strokeLinecap="round"
+      style={
+        Object {
+          "transform": "rotate(204deg)",
+          "transformOrigin": "32px 32px",
+        }
+      }
+      x1={32}
+      x2={32}
+      y1={32}
+      y2={6}
+    />
+    <line
+      className="c3"
+      stroke="#000000"
+      strokeLinecap="round"
+      style={
+        Object {
+          "transform": "rotate(138deg)",
+          "transformOrigin": "32px 32px",
+        }
+      }
+      x1={32}
+      x2={32}
+      y1={32}
+      y2={8}
+    />
+    <line
+      className="c4"
+      stroke="#000000"
+      strokeLinecap="round"
+      style={
+        Object {
+          "transform": "rotate(191.5deg)",
+          "transformOrigin": "32px 32px",
+        }
+      }
+      x1={32}
+      x2={32}
+      y1={32}
+      y2={16}
+    />
+  </svg>
+</div>
+`;
+
+exports[`Clock type analog precision seconds size xsmall 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c3 {
+  stroke-width: 5.333333333333333px;
+  stroke: #65707d;
+  -webkit-transition: stroke 1s ease-out;
+  transition: stroke 1s ease-out;
+}
+
+.c2 {
+  stroke-width: 2.6666666666666665px;
+  stroke: #65707d;
+  -webkit-transition: stroke 1s ease-out;
+  transition: stroke 1s ease-out;
+}
+
+.c1 {
+  stroke-width: 2px;
+  stroke: #38C18B;
+  -webkit-transition: stroke 1s ease-out;
+  transition: stroke 1s ease-out;
+}
+
+<div
+  className="c0"
+>
+  <svg
+    className=""
+    height={64}
+    preserveAspectRatio="xMidYMid meet"
+    size="xsmall"
+    version="1.1"
+    viewBox="0 0 64 64"
+    width={64}
+  >
+    <line
+      className="c1"
+      stroke="#000000"
+      strokeLinecap="round"
+      style={
+        Object {
+          "transform": "rotate(204deg)",
+          "transformOrigin": "32px 32px",
+        }
+      }
+      x1={32}
+      x2={32}
+      y1={32}
+      y2={6}
+    />
+    <line
+      className="c2"
+      stroke="#000000"
+      strokeLinecap="round"
+      style={
+        Object {
+          "transform": "rotate(138deg)",
+          "transformOrigin": "32px 32px",
+        }
+      }
+      x1={32}
+      x2={32}
+      y1={32}
+      y2={8}
+    />
+    <line
+      className="c3"
+      stroke="#000000"
+      strokeLinecap="round"
+      style={
+        Object {
+          "transform": "rotate(191.5deg)",
+          "transformOrigin": "32px 32px",
+        }
+      }
+      x1={32}
+      x2={32}
+      y1={32}
+      y2={16}
+    />
+  </svg>
+</div>
+`;
+
+exports[`Clock type digital precision hours size large 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c2 {
+  position: relative;
+  width: 0.8em;
+  text-align: center;
+  overflow: hidden;
+  font-size: 14.666666666666666px;
+  line-height: 1.167;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      size="large"
+    >
+      1
+    </div>
+    <div
+      className="c2"
+      size="large"
+    >
+      8
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Clock type digital precision hours size medium 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c2 {
+  position: relative;
+  width: 0.8em;
+  text-align: center;
+  overflow: hidden;
+  font-size: 12px;
+  line-height: 1.375;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      size="medium"
+    >
+      1
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      8
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Clock type digital precision hours size small 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c2 {
+  position: relative;
+  width: 0.8em;
+  text-align: center;
+  overflow: hidden;
+  font-size: 9.333333333333334px;
+  line-height: 1.43;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      size="small"
+    >
+      1
+    </div>
+    <div
+      className="c2"
+      size="small"
+    >
+      8
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Clock type digital precision hours size xlarge 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c2 {
+  position: relative;
+  width: 0.8em;
+  text-align: center;
+  overflow: hidden;
+  font-size: 17.333333333333332px;
+  line-height: 1.1875;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      size="xlarge"
+    >
+      1
+    </div>
+    <div
+      className="c2"
+      size="xlarge"
+    >
+      8
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Clock type digital precision hours size xsmall 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c2 {
+  position: relative;
+  width: 0.8em;
+  text-align: center;
+  overflow: hidden;
+  font-size: 6.666666666666667px;
+  line-height: 1.5;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      size="xsmall"
+    >
+      1
+    </div>
+    <div
+      className="c2"
+      size="xsmall"
+    >
+      8
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Clock type digital precision minutes size large 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c2 {
+  position: relative;
+  width: 0.8em;
+  text-align: center;
+  overflow: hidden;
+  font-size: 14.666666666666666px;
+  line-height: 1.167;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      size="large"
+    >
+      1
+    </div>
+    <div
+      className="c2"
+      size="large"
+    >
+      8
+    </div>
+    <div
+      className="c2"
+      size="large"
+    >
+      :
+    </div>
+    <div
+      className="c2"
+      size="large"
+    >
+      2
+    </div>
+    <div
+      className="c2"
+      size="large"
+    >
+      3
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Clock type digital precision minutes size medium 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c2 {
+  position: relative;
+  width: 0.8em;
+  text-align: center;
+  overflow: hidden;
+  font-size: 12px;
+  line-height: 1.375;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      size="medium"
+    >
+      1
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      8
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      :
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      2
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      3
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Clock type digital precision minutes size small 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c2 {
+  position: relative;
+  width: 0.8em;
+  text-align: center;
+  overflow: hidden;
+  font-size: 9.333333333333334px;
+  line-height: 1.43;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      size="small"
+    >
+      1
+    </div>
+    <div
+      className="c2"
+      size="small"
+    >
+      8
+    </div>
+    <div
+      className="c2"
+      size="small"
+    >
+      :
+    </div>
+    <div
+      className="c2"
+      size="small"
+    >
+      2
+    </div>
+    <div
+      className="c2"
+      size="small"
+    >
+      3
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Clock type digital precision minutes size xlarge 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c2 {
+  position: relative;
+  width: 0.8em;
+  text-align: center;
+  overflow: hidden;
+  font-size: 17.333333333333332px;
+  line-height: 1.1875;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      size="xlarge"
+    >
+      1
+    </div>
+    <div
+      className="c2"
+      size="xlarge"
+    >
+      8
+    </div>
+    <div
+      className="c2"
+      size="xlarge"
+    >
+      :
+    </div>
+    <div
+      className="c2"
+      size="xlarge"
+    >
+      2
+    </div>
+    <div
+      className="c2"
+      size="xlarge"
+    >
+      3
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Clock type digital precision minutes size xsmall 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c2 {
+  position: relative;
+  width: 0.8em;
+  text-align: center;
+  overflow: hidden;
+  font-size: 6.666666666666667px;
+  line-height: 1.5;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      size="xsmall"
+    >
+      1
+    </div>
+    <div
+      className="c2"
+      size="xsmall"
+    >
+      8
+    </div>
+    <div
+      className="c2"
+      size="xsmall"
+    >
+      :
+    </div>
+    <div
+      className="c2"
+      size="xsmall"
+    >
+      2
+    </div>
+    <div
+      className="c2"
+      size="xsmall"
+    >
+      3
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Clock type digital precision seconds size large 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c2 {
+  position: relative;
+  width: 0.8em;
+  text-align: center;
+  overflow: hidden;
+  font-size: 14.666666666666666px;
+  line-height: 1.167;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      size="large"
+    >
+      1
+    </div>
+    <div
+      className="c2"
+      size="large"
+    >
+      8
+    </div>
+    <div
+      className="c2"
+      size="large"
+    >
+      :
+    </div>
+    <div
+      className="c2"
+      size="large"
+    >
+      2
+    </div>
+    <div
+      className="c2"
+      size="large"
+    >
+      3
+    </div>
+    <div
+      className="c2"
+      size="large"
+    >
+      :
+    </div>
+    <div
+      className="c2"
+      size="large"
+    >
+      3
+    </div>
+    <div
+      className="c2"
+      size="large"
+    >
+      4
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Clock type digital precision seconds size medium 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c2 {
+  position: relative;
+  width: 0.8em;
+  text-align: center;
+  overflow: hidden;
+  font-size: 12px;
+  line-height: 1.375;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      size="medium"
+    >
+      1
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      8
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      :
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      2
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      3
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      :
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      3
+    </div>
+    <div
+      className="c2"
+      size="medium"
+    >
+      4
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Clock type digital precision seconds size small 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c2 {
+  position: relative;
+  width: 0.8em;
+  text-align: center;
+  overflow: hidden;
+  font-size: 9.333333333333334px;
+  line-height: 1.43;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      size="small"
+    >
+      1
+    </div>
+    <div
+      className="c2"
+      size="small"
+    >
+      8
+    </div>
+    <div
+      className="c2"
+      size="small"
+    >
+      :
+    </div>
+    <div
+      className="c2"
+      size="small"
+    >
+      2
+    </div>
+    <div
+      className="c2"
+      size="small"
+    >
+      3
+    </div>
+    <div
+      className="c2"
+      size="small"
+    >
+      :
+    </div>
+    <div
+      className="c2"
+      size="small"
+    >
+      3
+    </div>
+    <div
+      className="c2"
+      size="small"
+    >
+      4
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Clock type digital precision seconds size xlarge 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c2 {
+  position: relative;
+  width: 0.8em;
+  text-align: center;
+  overflow: hidden;
+  font-size: 17.333333333333332px;
+  line-height: 1.1875;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      size="xlarge"
+    >
+      1
+    </div>
+    <div
+      className="c2"
+      size="xlarge"
+    >
+      8
+    </div>
+    <div
+      className="c2"
+      size="xlarge"
+    >
+      :
+    </div>
+    <div
+      className="c2"
+      size="xlarge"
+    >
+      2
+    </div>
+    <div
+      className="c2"
+      size="xlarge"
+    >
+      3
+    </div>
+    <div
+      className="c2"
+      size="xlarge"
+    >
+      :
+    </div>
+    <div
+      className="c2"
+      size="xlarge"
+    >
+      3
+    </div>
+    <div
+      className="c2"
+      size="xlarge"
+    >
+      4
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Clock type digital precision seconds size xsmall 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c2 {
+  position: relative;
+  width: 0.8em;
+  text-align: center;
+  overflow: hidden;
+  font-size: 6.666666666666667px;
+  line-height: 1.5;
+}
+
+<div
+  className="c0"
+>
+  <div
+    className="c1"
+  >
+    <div
+      className="c2"
+      size="xsmall"
+    >
+      1
+    </div>
+    <div
+      className="c2"
+      size="xsmall"
+    >
+      8
+    </div>
+    <div
+      className="c2"
+      size="xsmall"
+    >
+      :
+    </div>
+    <div
+      className="c2"
+      size="xsmall"
+    >
+      2
+    </div>
+    <div
+      className="c2"
+      size="xsmall"
+    >
+      3
+    </div>
+    <div
+      className="c2"
+      size="xsmall"
+    >
+      :
+    </div>
+    <div
+      className="c2"
+      size="xsmall"
+    >
+      3
+    </div>
+    <div
+      className="c2"
+      size="xsmall"
+    >
+      4
+    </div>
+  </div>
+</div>
+`;

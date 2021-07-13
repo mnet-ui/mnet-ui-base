@@ -1,0 +1,337 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Markdown renders 1`] = `
+.c0 {
+  font-size: 12px;
+  line-height: 16px;
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+.c10 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+  min-width: 0;
+  min-height: 0;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c1 {
+  font-size: 33.33333333333333px;
+  line-height: 37.33333333333333px;
+  max-width: 533.3333333333333px;
+  font-weight: 600;
+}
+
+.c3 {
+  font-size: 22.666666666666664px;
+  line-height: 26.666666666666664px;
+  max-width: 362.66666666666663px;
+  font-weight: 600;
+}
+
+.c4 {
+  font-size: 17.333333333333332px;
+  line-height: 21.333333333333332px;
+  max-width: 277.3333333333333px;
+  font-weight: 600;
+}
+
+.c5 {
+  font-size: 12px;
+  line-height: 16px;
+  max-width: 192px;
+  font-weight: 600;
+}
+
+.c2 {
+  font-size: 12px;
+  line-height: 16px;
+  max-width: 192px;
+}
+
+.c6 {
+  box-sizing: border-box;
+  font-size: inherit;
+  line-height: inherit;
+  color: #E15151;
+  font-weight: 600;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.c6:hover {
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+}
+
+.c9 {
+  margin: 0;
+  padding: 0;
+  font-weight: inherit;
+  text-align: inherit;
+  height: 100%;
+  text-align: start;
+  border-bottom: solid 1px #cdd3e3;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.c11 {
+  margin: 0;
+  padding: 0;
+  font-weight: inherit;
+  text-align: inherit;
+  height: 100%;
+  text-align: start;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.c8 {
+  height: 100%;
+}
+
+.c7 {
+  border-spacing: 0;
+  border-collapse: collapse;
+  width: inherit;
+}
+
+@media only screen and (max-width:512px) {
+  .c1 {
+    font-size: 22.666666666666664px;
+    line-height: 26.666666666666664px;
+    max-width: 362.66666666666663px;
+  }
+}
+
+@media only screen and (max-width:512px) {
+  .c3 {
+    font-size: 17.333333333333332px;
+    line-height: 21.333333333333332px;
+    max-width: 277.3333333333333px;
+  }
+}
+
+@media only screen and (max-width:512px) {
+  .c4 {
+    font-size: 12px;
+    line-height: 16px;
+    max-width: 192px;
+  }
+}
+
+@media only screen and (max-width:512px) {
+  .c5 {
+    font-size: 12px;
+    line-height: 16px;
+    max-width: 192px;
+  }
+}
+
+@media all and (min--moz-device-pixel-ratio:0) {
+  .c7 {
+    table-layout: fixed;
+  }
+}
+
+<div
+  className="c0"
+>
+  <div>
+    <h1
+      className="c1"
+      id="h1"
+    >
+      H1
+    </h1>
+    <p
+      className="c2"
+    >
+      Paragraph
+    </p>
+    <h2
+      className="c3"
+      id="h2"
+    >
+      H2
+    </h2>
+    <h3
+      className="c4"
+      id="h3"
+    >
+      H3
+    </h3>
+    <h4
+      className="c5"
+      id="h4"
+    >
+      H4
+    </h4>
+    <p
+      className="c2"
+    >
+      <a
+        className="c6"
+        href="#"
+        onBlur={[Function]}
+        onFocus={[Function]}
+      >
+        a link
+      </a>
+    </p>
+    <blockquote>
+      <p
+        className="c2"
+      >
+        i carry your heart with me
+      </p>
+    </blockquote>
+    <p
+      className="c2"
+    >
+      <img
+        alt="alt text"
+        className=""
+        src="//v2.grommet.io/assets/IMG_4245.jpg"
+        title="Markdown Image"
+      />
+    </p>
+    <table
+      className="c7"
+    >
+      <thead
+        className=""
+      >
+        <tr
+          className="c8"
+        >
+          <td
+            className="c9"
+          >
+            <div
+              className="c10"
+              style={Object {}}
+            >
+              Markdown
+            </div>
+          </td>
+          <td
+            className="c9"
+          >
+            <div
+              className="c10"
+              style={Object {}}
+            >
+              Less
+            </div>
+          </td>
+          <td
+            className="c9"
+          >
+            <div
+              className="c10"
+              style={Object {}}
+            >
+              Pretty
+            </div>
+          </td>
+        </tr>
+      </thead>
+      <tbody
+        className=""
+      >
+        <tr
+          className="c8"
+        >
+          <td
+            className="c11"
+          >
+            <div
+              className="c10"
+              style={Object {}}
+            >
+              <em>
+                Still
+              </em>
+            </div>
+          </td>
+          <td
+            className="c11"
+          >
+            <div
+              className="c10"
+              style={Object {}}
+            >
+              <code>
+                renders
+              </code>
+            </div>
+          </td>
+          <td
+            className="c11"
+          >
+            <div
+              className="c10"
+              style={Object {}}
+            >
+              <strong>
+                nicely
+              </strong>
+            </div>
+          </td>
+        </tr>
+        <tr
+          className="c8"
+        >
+          <td
+            className="c11"
+          >
+            <div
+              className="c10"
+              style={Object {}}
+            >
+              1
+            </div>
+          </td>
+          <td
+            className="c11"
+          >
+            <div
+              className="c10"
+              style={Object {}}
+            >
+              2
+            </div>
+          </td>
+          <td
+            className="c11"
+          >
+            <div
+              className="c10"
+              style={Object {}}
+            >
+              3
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+`;
